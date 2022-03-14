@@ -1,0 +1,42 @@
+{
+    "name": "nigerian-local-government-areas",
+    "version": "1.0.0",
+    "description": "A collection of all 774 local government areas in Nigeria.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "husky install",
+        "release": "standard-version",
+        "release:minor": "standard-version --release-as minor",
+        "release:patch": "standard-version --release-as patch",
+        "release:major": "standard-version --release-as major"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xosasx/nigerian-local-government-areas.git"
+    },
+    "keywords": [
+        "nigeria",
+        "local government areas nigeria",
+        "nigerian states"
+    ],
+    "author": "Osas Obazee",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xosasx/nigerian-local-government-areas/issues"
+    },
+    "homepage": "https://github.com/xosasx/nigerian-local-government-areas#readme",
+    "devDependencies": {
+        "husky": "^7.0.4",
+        "lint-staged": "^12.3.5",
+        "prettier": "2.5.1",
+        "standard-version": "^9.3.2"
+    },
+    "dependencies": {
+        "@commitlint/cli": "^16.2.1",
+        "@commitlint/config-conventional": "^16.2.1"
+    },
+    "lint-staged": {
+        "**/*": "prettier --write --ignore-unknown"
+    }
+}
