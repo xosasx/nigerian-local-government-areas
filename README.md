@@ -53,7 +53,6 @@ Federal Capital Territory | 6
 
 
 ## Roadmap
-
 - [x] Add Changelog
 - [x] Add Lgas json
 - [x] Group Lgas into individual states and territory json
@@ -96,7 +95,7 @@ Federal Capital Territory | 6
    - [x] Federal Capital Territory
 - [x] Add ReadMe
 - [ ] Add SQL format
-- [ ] Add XML format
+- [x] Add XML format
 - [ ] Add YAML format
 - [ ] Add CSV format
 - [ ] Implement API for data
