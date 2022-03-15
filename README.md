@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [![LinkedIn][linkedin-logo-shield]][linkedin-url]
 
 ## Acknowledgments
-* [🌍 Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-databaseh)
+* [🌍 Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database)
 
 [contributors-shield]: https://img.shields.io/github/contributors/xosasx/nigerian-local-government-areas.svg?style=for-the-badge
 [contributors-url]: https://github.com/xosasx/nigerian-local-government-areas/graphs/contributors
