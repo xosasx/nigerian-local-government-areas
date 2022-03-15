@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lgas>
+	<lga>
+		<id>276</id>
+		<name>Abaji</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>8.475556</latitude>
+		<longitude>6.943333</longitude>
+		<wikiDataId>Q1053237</wikiDataId>
+	</lga>
+	<lga>
+		<id>277</id>
+		<name>Abuja</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>9.06666667</latitude>
+		<longitude>7.48333333</longitude>
+		<wikiDataId>Q3787</wikiDataId>
+	</lga>
+	<lga>
+		<id>278</id>
+		<name>Bwari</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>9.280278</latitude>
+		<longitude>7.38</longitude>
+		<wikiDataId>Q5003670</wikiDataId>
+	</lga>
+	<lga>
+		<id>279</id>
+		<name>Gwagwalada</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>8.939167</latitude>
+		<longitude>7.075833</longitude>
+		<wikiDataId>Q2285343</wikiDataId>
+	</lga>
+	<lga>
+		<id>280</id>
+		<name>Kuje</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>8.88222222</latitude>
+		<longitude>7.22027778</longitude>
+		<wikiDataId>Q6442341</wikiDataId>
+	</lga>
+	<lga>
+		<id>281</id>
+		<name>Kwali</name>
+		<state_id>293</state_id>
+		<state_code>FC</state_code>
+		<state_name>Federal Capital Territory</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>8.839722</latitude>
+		<longitude>7.054167</longitude>
+		<wikiDataId>Q6450057</wikiDataId>
+	</lga>
+</lgas>

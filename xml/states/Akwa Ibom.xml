@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lgas>
+	<lga>
+		<id>39</id>
+		<name>Abak</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.98333333</latitude>
+		<longitude>7.78333333</longitude>
+		<wikiDataId>Q2820150</wikiDataId>
+	</lga>
+	<lga>
+		<id>40</id>
+		<name>Eastern Obolo</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.533333</latitude>
+		<longitude>7.7</longitude>
+		<wikiDataId>Q5330341</wikiDataId>
+	</lga>
+	<lga>
+		<id>41</id>
+		<name>Eket</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.65</latitude>
+		<longitude>7.93333333</longitude>
+		<wikiDataId>Q3321199</wikiDataId>
+	</lga>
+	<lga>
+		<id>42</id>
+		<name>Esit Eket</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.66055556</latitude>
+		<longitude>8.06666667</longitude>
+		<wikiDataId>Q5397964</wikiDataId>
+	</lga>
+	<lga>
+		<id>43</id>
+		<name>Essien Udim</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.13333333</latitude>
+		<longitude>7.68333333</longitude>
+		<wikiDataId>Q5399896</wikiDataId>
+	</lga>
+	<lga>
+		<id>44</id>
+		<name>Etim Ekpo</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.01666667</latitude>
+		<longitude>7.61666667</longitude>
+		<wikiDataId>Q5404590</wikiDataId>
+	</lga>
+	<lga>
+		<id>45</id>
+		<name>Etinan</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.85</latitude>
+		<longitude>7.83333333</longitude>
+		<wikiDataId>Q5404600</wikiDataId>
+	</lga>
+	<lga>
+		<id>46</id>
+		<name>Ibeno</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.568693</latitude>
+		<longitude>7.976396</longitude>
+		<wikiDataId>Q5983812</wikiDataId>
+	</lga>
+	<lga>
+		<id>47</id>
+		<name>Ibesikpo Asutan</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.76666667</latitude>
+		<longitude>7.95</longitude>
+		<wikiDataId>Q5983991</wikiDataId>
+	</lga>
+	<lga>
+		<id>48</id>
+		<name>Ibiono Ibom</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.23333333</latitude>
+		<longitude>7.88333333</longitude>
+		<wikiDataId>Q5984067</wikiDataId>
+	</lga>
+	<lga>
+		<id>49</id>
+		<name>Ika</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.01666667</latitude>
+		<longitude>7.53333333</longitude>
+		<wikiDataId>Q5995269</wikiDataId>
+	</lga>
+	<lga>
+		<id>50</id>
+		<name>Ikono</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.210278</latitude>
+		<longitude>7.793889</longitude>
+		<wikiDataId>Q5996152</wikiDataId>
+	</lga>
+	<lga>
+		<id>51</id>
+		<name>Ikot Abasi</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.633333</latitude>
+		<longitude>7.65</longitude>
+		<wikiDataId>Q5996219</wikiDataId>
+	</lga>
+	<lga>
+		<id>52</id>
+		<name>Ikot Ekpene</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.18333333</latitude>
+		<longitude>7.71666667</longitude>
+		<wikiDataId>Q680926</wikiDataId>
+	</lga>
+	<lga>
+		<id>53</id>
+		<name>Ini</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.4</latitude>
+		<longitude>7.733333</longitude>
+		<wikiDataId>Q13140466</wikiDataId>
+	</lga>
+	<lga>
+		<id>54</id>
+		<name>Itu</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.16666667</latitude>
+		<longitude>7.98333333</longitude>
+		<wikiDataId>Q6095095</wikiDataId>
+	</lga>
+	<lga>
+		<id>55</id>
+		<name>Mbo</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.65</latitude>
+		<longitude>8.23333333</longitude>
+		<wikiDataId>Q6799703</wikiDataId>
+	</lga>
+	<lga>
+		<id>56</id>
+		<name>Mkpat Enin</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.73361111</latitude>
+		<longitude>7.74861111</longitude>
+		<wikiDataId>Q6885516</wikiDataId>
+	</lga>
+	<lga>
+		<id>57</id>
+		<name>Nsit Atai</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.85</latitude>
+		<longitude>8.01666667</longitude>
+		<wikiDataId>Q7067566</wikiDataId>
+	</lga>
+	<lga>
+		<id>58</id>
+		<name>Nsit Ibom</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.88333333</latitude>
+		<longitude>7.9</longitude>
+		<wikiDataId>Q7067567</wikiDataId>
+	</lga>
+	<lga>
+		<id>59</id>
+		<name>Nsit Ubium</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.76666667</latitude>
+		<longitude>7.93333333</longitude>
+		<wikiDataId>Q10494314</wikiDataId>
+	</lga>
+	<lga>
+		<id>60</id>
+		<name>Obot Akara</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.26667</latitude>
+		<longitude>7.6</longitude>
+		<wikiDataId>Q7075311</wikiDataId>
+	</lga>
+	<lga>
+		<id>61</id>
+		<name>Okobo</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.83333333</latitude>
+		<longitude>8.13333333</longitude>
+		<wikiDataId>Q7082466</wikiDataId>
+	</lga>
+	<lga>
+		<id>62</id>
+		<name>Onna</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.65</latitude>
+		<longitude>7.86666667</longitude>
+		<wikiDataId>Q7094369</wikiDataId>
+	</lga>
+	<lga>
+		<id>63</id>
+		<name>Oron</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.82583333</latitude>
+		<longitude>8.23388889</longitude>
+		<wikiDataId>Q1277335</wikiDataId>
+	</lga>
+	<lga>
+		<id>64</id>
+		<name>Oruk Anam</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.81666667</latitude>
+		<longitude>7.65</longitude>
+		<wikiDataId>Q7105162</wikiDataId>
+	</lga>
+	<lga>
+		<id>65</id>
+		<name>Udung Uko</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.76666667</latitude>
+		<longitude>8.23333333</longitude>
+		<wikiDataId>Q7877346</wikiDataId>
+	</lga>
+	<lga>
+		<id>66</id>
+		<name>Ukanafun</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.9</latitude>
+		<longitude>7.6</longitude>
+		<wikiDataId>Q7878266</wikiDataId>
+	</lga>
+	<lga>
+		<id>67</id>
+		<name>Uruan</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.03333333</latitude>
+		<longitude>8.05</longitude>
+		<wikiDataId>Q11058133</wikiDataId>
+	</lga>
+	<lga>
+		<id>68</id>
+		<name>Urue Offong/Oruko</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.71667</latitude>
+		<longitude>8.15</longitude>
+		<wikiDataId>Q7901410</wikiDataId>
+	</lga>
+	<lga>
+		<id>69</id>
+		<name>Uyo</name>
+		<state_id>304</state_id>
+		<state_code>AK</state_code>
+		<state_name>Akwa Ibom</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.03333333</latitude>
+		<longitude>7.91666667</longitude>
+		<wikiDataId>Q1999000</wikiDataId>
+	</lga>
+</lgas>

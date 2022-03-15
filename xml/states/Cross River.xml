@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lgas>
+	<lga>
+		<id>169</id>
+		<name>Abi</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.833333</latitude>
+		<longitude>7.233333</longitude>
+		<wikiDataId>Q3510527</wikiDataId>
+	</lga>
+	<lga>
+		<id>170</id>
+		<name>Akamkpa</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.326828</latitude>
+		<longitude>8.346262</longitude>
+		<wikiDataId>Q4700237</wikiDataId>
+	</lga>
+	<lga>
+		<id>171</id>
+		<name>Akpabuyo</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.950439</latitude>
+		<longitude>8.393276</longitude>
+		<wikiDataId>Q4701571</wikiDataId>
+	</lga>
+	<lga>
+		<id>172</id>
+		<name>Bakassi</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.58333333</latitude>
+		<longitude>8.6</longitude>
+		<wikiDataId>Q804272</wikiDataId>
+	</lga>
+	<lga>
+		<id>173</id>
+		<name>Bekwarra</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.69388889</latitude>
+		<longitude>8.9675</longitude>
+		<wikiDataId>Q4881684</wikiDataId>
+	</lga>
+	<lga>
+		<id>174</id>
+		<name>Biase</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.557438</latitude>
+		<longitude>8.110474</longitude>
+		<wikiDataId>Q4902588</wikiDataId>
+	</lga>
+	<lga>
+		<id>175</id>
+		<name>Boki</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.273889</latitude>
+		<longitude>9.01</longitude>
+		<wikiDataId>Q4938771</wikiDataId>
+	</lga>
+	<lga>
+		<id>176</id>
+		<name>Calabar Municipal</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.974531</latitude>
+		<longitude>8.34241</longitude>
+		<wikiDataId>Q5018280</wikiDataId>
+	</lga>
+	<lga>
+		<id>177</id>
+		<name>Calabar South</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>4.918822</latitude>
+		<longitude>8.320945</longitude>
+		<wikiDataId>Q5018279</wikiDataId>
+	</lga>
+	<lga>
+		<id>178</id>
+		<name>Etung</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.858889</latitude>
+		<longitude>8.791667</longitude>
+		<wikiDataId>Q5405088</wikiDataId>
+	</lga>
+	<lga>
+		<id>179</id>
+		<name>Ikom</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.08333333</latitude>
+		<longitude>8.61666667</longitude>
+		<wikiDataId>Q5996091</wikiDataId>
+	</lga>
+	<lga>
+		<id>180</id>
+		<name>Obanliku</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.609277</latitude>
+		<longitude>9.250274</longitude>
+		<wikiDataId>Q7074630</wikiDataId>
+	</lga>
+	<lga>
+		<id>181</id>
+		<name>Obubra</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.083333</latitude>
+		<longitude>8.333333</longitude>
+		<wikiDataId>Q7075578</wikiDataId>
+	</lga>
+	<lga>
+		<id>182</id>
+		<name>Obudu</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.66666667</latitude>
+		<longitude>9.16666667</longitude>
+		<wikiDataId>Q7075580</wikiDataId>
+	</lga>
+	<lga>
+		<id>183</id>
+		<name>Odukpani</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.079809</latitude>
+		<longitude>8.350403</longitude>
+		<wikiDataId>Q7078367</wikiDataId>
+	</lga>
+	<lga>
+		<id>184</id>
+		<name>Ogoja</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.5</latitude>
+		<longitude>8.66666667</longitude>
+		<wikiDataId>Q3509254</wikiDataId>
+	</lga>
+	<lga>
+		<id>185</id>
+		<name>Yakurr</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>5.806111</latitude>
+		<longitude>8.175</longitude>
+		<wikiDataId>Q8047268</wikiDataId>
+	</lga>
+	<lga>
+		<id>186</id>
+		<name>Yala</name>
+		<state_id>314</state_id>
+		<state_code>CR</state_code>
+		<state_name>Cross River</state_name>
+		<country_id>161</country_id>
+		<country_code>NG</country_code>
+		<country_name>Nigeria</country_name>
+		<latitude>6.7</latitude>
+		<longitude>8.6</longitude>
+		<wikiDataId>Q8047286</wikiDataId>
+	</lga>
+</lgas>
