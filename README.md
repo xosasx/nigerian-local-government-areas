@@ -8,101 +8,102 @@
 # Nigerian Local Government Areas
 
 ## About The Project
+
 A collection of all 774 local government areas in Nigeria.
 
-
-State | Local Government Areas Count
-:------------ | :-------------:
-Abia | 17
-Adamawa | 21
-Akwa Ibom | 31
-Anambra | 21
-Bauchi | 20
-Bayelsa | 8
-Benue | 23
-Borno | 27
-Cross River | 18
-Delta | 25
-Ebonyi | 13
-Edo | 18
-Ekiti | 16
-Enugu | 17
-Gombe | 11
-Imo | 27
-Jigawa | 27
-Kaduna | 23
-Kano | 44
-Katsina | 34
-Kebbi | 21
-Kogi | 21
-Kwara | 16
-Lagos | 20
-Nasarawa | 13
-Niger | 25
-Ogun | 20
-Ondo | 18
-Osun | 30
-Oyo | 33
-Plateau | 17
-Rivers | 23
-Sokoto | 23
-Taraba | 16
-Yobe | 17
-Zamfara | 14
-Federal Capital Territory | 6
-
+| State                     | Local Government Areas Count |
+| :------------------------ | :--------------------------: |
+| Abia                      |              17              |
+| Adamawa                   |              21              |
+| Akwa Ibom                 |              31              |
+| Anambra                   |              21              |
+| Bauchi                    |              20              |
+| Bayelsa                   |              8               |
+| Benue                     |              23              |
+| Borno                     |              27              |
+| Cross River               |              18              |
+| Delta                     |              25              |
+| Ebonyi                    |              13              |
+| Edo                       |              18              |
+| Ekiti                     |              16              |
+| Enugu                     |              17              |
+| Gombe                     |              11              |
+| Imo                       |              27              |
+| Jigawa                    |              27              |
+| Kaduna                    |              23              |
+| Kano                      |              44              |
+| Katsina                   |              34              |
+| Kebbi                     |              21              |
+| Kogi                      |              21              |
+| Kwara                     |              16              |
+| Lagos                     |              20              |
+| Nasarawa                  |              13              |
+| Niger                     |              25              |
+| Ogun                      |              20              |
+| Ondo                      |              18              |
+| Osun                      |              30              |
+| Oyo                       |              33              |
+| Plateau                   |              17              |
+| Rivers                    |              23              |
+| Sokoto                    |              23              |
+| Taraba                    |              16              |
+| Yobe                      |              17              |
+| Zamfara                   |              14              |
+| Federal Capital Territory |              6               |
 
 ## Roadmap
-- [x] Add Changelog
-- [x] Add Lgas json
-- [x] Group Lgas into individual states and territory json
-   - [x] Abia
-   - [x] Adamawa
-   - [x] Akwa Ibom
-   - [x] Anambra
-   - [x] Bauchi
-   - [x] Bayelsa
-   - [x] Benue
-   - [x] Borno
-   - [x] Cross River
-   - [x] Delta
-   - [x] Ebonyi
-   - [x] Edo
-   - [x] Ekiti
-   - [x] Enugu   
-   - [x] Gombe
-   - [x] Imo
-   - [x] Jigawa
-   - [x] Kaduna
-   - [x] Kano
-   - [x] Katsina
-   - [x] Kebbi
-   - [x] Kogi
-   - [x] Kwara
-   - [x] Lagos
-   - [x] Nasarawa
-   - [x] Niger
-   - [x] Ogun
-   - [x] Ondo
-   - [x] Osun
-   - [x] Oyo
-   - [x] Plateau
-   - [x] Rivers
-   - [x] Sokoto
-   - [x] Taraba
-   - [x] Yobe
-   - [x] Zamfara
-   - [x] Federal Capital Territory
-- [x] Add ReadMe
-- [ ] Add SQL format
-- [x] Add XML format
-- [ ] Add YAML format
-- [ ] Add CSV format
-- [ ] Implement API for data
+
+-   [x] Add Changelog
+-   [x] Add Lgas json
+-   [x] Group Lgas into individual states and territory json
+    -   [x] Abia
+    -   [x] Adamawa
+    -   [x] Akwa Ibom
+    -   [x] Anambra
+    -   [x] Bauchi
+    -   [x] Bayelsa
+    -   [x] Benue
+    -   [x] Borno
+    -   [x] Cross River
+    -   [x] Delta
+    -   [x] Ebonyi
+    -   [x] Edo
+    -   [x] Ekiti
+    -   [x] Enugu
+    -   [x] Gombe
+    -   [x] Imo
+    -   [x] Jigawa
+    -   [x] Kaduna
+    -   [x] Kano
+    -   [x] Katsina
+    -   [x] Kebbi
+    -   [x] Kogi
+    -   [x] Kwara
+    -   [x] Lagos
+    -   [x] Nasarawa
+    -   [x] Niger
+    -   [x] Ogun
+    -   [x] Ondo
+    -   [x] Osun
+    -   [x] Oyo
+    -   [x] Plateau
+    -   [x] Rivers
+    -   [x] Sokoto
+    -   [x] Taraba
+    -   [x] Yobe
+    -   [x] Zamfara
+    -   [x] Federal Capital Territory
+-   [x] Add ReadMe
+-   [ ] Add SQL format
+-   [x] Add XML format
+-   [ ] Add YAML format
+-   [x] Add CSV format
+-   [ ] Implement API for data
 
 See the [open issues](https://github.com/xosasx/nigerian-local-government-areas/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -115,15 +116,18 @@ Don't forget to give the project a star! Thanks again!
 1. Open a Pull Request
 
 ## License
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Follow me at
+
 [![GitHub][github-logo-shield]][github-url]
 [![Twitter][twitter-logo-shield]][twitter-url]
 [![LinkedIn][linkedin-logo-shield]][linkedin-url]
 
 ## Acknowledgments
-* [🌍 Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database)
+
+-   [🌍 Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database)
 
 [contributors-shield]: https://img.shields.io/github/contributors/xosasx/nigerian-local-government-areas.svg?style=for-the-badge
 [contributors-url]: https://github.com/xosasx/nigerian-local-government-areas/graphs/contributors
