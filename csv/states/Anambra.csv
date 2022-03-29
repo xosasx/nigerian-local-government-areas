@@ -1,0 +1,22 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+70,Aguata,315,AN,Anambra,161,NG,Nigeria,6.01666667,7.08333333,Q4694513
+71,Anambra East,315,AN,Anambra,161,NG,Nigeria,6.333333,6.866667,Q3509614
+72,Anambra West,315,AN,Anambra,161,NG,Nigeria,6.416667,6.683333,Q3510446
+73,Anaocha,315,AN,Anambra,161,NG,Nigeria,6.15,7.05,Q4751505
+74,Awka North,315,AN,Anambra,161,NG,Nigeria,6.233333,7.133333,Q4830080
+75,Awka South,315,AN,Anambra,161,NG,Nigeria,6.16666667,7.06666667,Q4830081
+76,Ayamelum,315,AN,Anambra,161,NG,Nigeria,6.6,6.966667,Q4830907
+77,Dunukofia,315,AN,Anambra,161,NG,Nigeria,6.271944,6.976667,Q5315776
+78,Ekwusigo,315,AN,Anambra,161,NG,Nigeria,6.054662,6.82859,Q5350637
+79,Idemili North,315,AN,Anambra,161,NG,Nigeria,6.097069,6.984745,Q11058846
+80,Idemili South,315,AN,Anambra,161,NG,Nigeria,6.100683,6.898364,Q5988156
+81,Ihiala,315,AN,Anambra,161,NG,Nigeria,5.85388889,6.86,Q3056230
+82,Njikoka,315,AN,Anambra,161,NG,Nigeria,6.183846,6.99191,Q13653675
+83,Nnewi North,315,AN,Anambra,161,NG,Nigeria,5.938767,5.938767,Q11058181
+84,Nnewi South,315,AN,Anambra,161,NG,Nigeria,5.938383,6.921821,Q7042725
+85,Ogbaru,315,AN,Anambra,161,NG,Nigeria,5.960656,6.731678,Q7079872
+86,Onitsha North,315,AN,Anambra,161,NG,Nigeria,6.189277,6.805853,Q3509391
+87,Onitsha South,315,AN,Anambra,161,NG,Nigeria,6.135818,6.788542,Q3510413
+88,Orumba North,315,AN,Anambra,161,NG,Nigeria,6.042599,7.213103,Q7105167
+89,Orumba South,315,AN,Anambra,161,NG,Nigeria,5.990942,5.990942,Q7105169
+90,Oyi,315,AN,Anambra,161,NG,Nigeria,5.25,6.21666667,Q7116267

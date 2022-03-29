@@ -1,0 +1,19 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+169,Abi,314,CR,Cross River,161,NG,Nigeria,6.833333,7.233333,Q3510527
+170,Akamkpa,314,CR,Cross River,161,NG,Nigeria,5.326828,8.346262,Q4700237
+171,Akpabuyo,314,CR,Cross River,161,NG,Nigeria,4.950439,8.393276,Q4701571
+172,Bakassi,314,CR,Cross River,161,NG,Nigeria,4.58333333,8.6,Q804272
+173,Bekwarra,314,CR,Cross River,161,NG,Nigeria,6.69388889,8.9675,Q4881684
+174,Biase,314,CR,Cross River,161,NG,Nigeria,5.557438,8.110474,Q4902588
+175,Boki,314,CR,Cross River,161,NG,Nigeria,6.273889,9.01,Q4938771
+176,Calabar Municipal,314,CR,Cross River,161,NG,Nigeria,4.974531,8.34241,Q5018280
+177,Calabar South,314,CR,Cross River,161,NG,Nigeria,4.918822,8.320945,Q5018279
+178,Etung,314,CR,Cross River,161,NG,Nigeria,5.858889,8.791667,Q5405088
+179,Ikom,314,CR,Cross River,161,NG,Nigeria,6.08333333,8.61666667,Q5996091
+180,Obanliku,314,CR,Cross River,161,NG,Nigeria,6.609277,9.250274,Q7074630
+181,Obubra,314,CR,Cross River,161,NG,Nigeria,6.083333,8.333333,Q7075578
+182,Obudu,314,CR,Cross River,161,NG,Nigeria,6.66666667,9.16666667,Q7075580
+183,Odukpani,314,CR,Cross River,161,NG,Nigeria,5.079809,8.350403,Q7078367
+184,Ogoja,314,CR,Cross River,161,NG,Nigeria,6.5,8.66666667,Q3509254
+185,Yakurr,314,CR,Cross River,161,NG,Nigeria,5.806111,8.175,Q8047268
+186,Yala,314,CR,Cross River,161,NG,Nigeria,6.7,8.6,Q8047286

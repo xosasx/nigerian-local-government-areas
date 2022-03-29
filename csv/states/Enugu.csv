@@ -1,0 +1,18 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+259,Aninri,289,EN,Enugu,161,NG,Nigeria,6.05,7.58333333,Q4765240
+260,Awgu,289,EN,Enugu,161,NG,Nigeria,6.1169,7.476,Q4830051
+261,Enugu East,289,EN,Enugu,161,NG,Nigeria,6.53333,7.53333,Q5380873
+262,Enugu North,289,EN,Enugu,161,NG,Nigeria,6.46666667,7.51666667,Q5380874
+263,Enugu South,289,EN,Enugu,161,NG,Nigeria,6.4,7.5,Q5380875
+264,Ezeagu,289,EN,Enugu,161,NG,Nigeria,6.75,7.33333333,Q5423113
+265,Igbo Etiti,289,EN,Enugu,161,NG,Nigeria,6.66667,7.36667,Q5991568
+266,Igbo Eze North,289,EN,Enugu,161,NG,Nigeria,6.98333,7.45,Q5991578
+267,Igbo Eze South,289,EN,Enugu,161,NG,Nigeria,6.91667,7.4,Q5991584
+268,Isi-Uzo,289,EN,Enugu,161,NG,Nigeria,6.78333333,7.71666667,Q11274430
+269,Nkanu East,289,EN,Enugu,161,NG,Nigeria,6.33333333,7.65,Q7042529
+270,Nkanu West,289,EN,Enugu,161,NG,Nigeria,6.3,7.55,Q11058668
+271,Nsukka,289,EN,Enugu,161,NG,Nigeria,6.85666667,7.39583333,Q681198
+272,Oji-River,289,EN,Enugu,161,NG,Nigeria,6.26666667,7.26666667,Q7081610
+273,Udenu,289,EN,Enugu,161,NG,Nigeria,6.91667,7.51667,Q7877168
+274,Udi,289,EN,Enugu,161,NG,Nigeria,6.31667,7.43333,Q7877213
+275,Uzo-Uwani,289,EN,Enugu,161,NG,Nigeria,6.75,7.2,Q7905110

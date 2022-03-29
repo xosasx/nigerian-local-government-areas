@@ -1,0 +1,9 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+111,Brass,305,BY,Bayelsa,161,NG,Nigeria,4.315,6.24166667,Q2923946
+112,Ekeremor,305,BY,Bayelsa,161,NG,Nigeria,5.05,5.78333333,Q5350399
+113,Kolokuma/Opokuma,305,BY,Bayelsa,161,NG,Nigeria,5.13333333,6.3,Q6427473
+114,Nembe,305,BY,Bayelsa,161,NG,Nigeria,4.53690278,6.40621111,Q3510576
+115,Ogbia,305,BY,Bayelsa,161,NG,Nigeria,4.78333333,6.33333333,Q7079876
+116,Sagbama,305,BY,Bayelsa,161,NG,Nigeria,5.16666667,6.2,Q7399088
+117,Southern Ijaw,305,BY,Bayelsa,161,NG,Nigeria,4.7,5.966667,Q11058325
+118,Yenagoa,305,BY,Bayelsa,161,NG,Nigeria,5.03333333,6.33333333,Q648749

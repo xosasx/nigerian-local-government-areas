@@ -1,0 +1,12 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+282,Akko,310,GO,Gombe,161,NG,Nigeria,32.92777778,35.08166667,Q126084
+283,Balanga,310,GO,Gombe,161,NG,Nigeria,9.96666667,11.68333333,Q4374738
+284,Billiri,310,GO,Gombe,161,NG,Nigeria,9.83333333,11.15,Q3510517
+285,Dukku,310,GO,Gombe,161,NG,Nigeria,10.81666667,10.76666667,Q5313235
+286,Funakaye,310,GO,Gombe,161,NG,Nigeria,10.85,11.43333333,Q5508725
+287,Gombe,310,GO,Gombe,161,NG,Nigeria,10.28333333,11.16666667,Q591598
+288,Kaltungo,310,GO,Gombe,161,NG,Nigeria,9.88333333,11.43333333,Q6354502
+289,Kwami,310,GO,Gombe,161,NG,Nigeria,10.5,11.25,Q6450109
+290,Nafada,310,GO,Gombe,161,NG,Nigeria,11.1333,11.25,Q6958144
+291,Shongom,310,GO,Gombe,161,NG,Nigeria,9.65,11.2167,Q7500408
+292,Yamaltu/Deba,310,GO,Gombe,161,NG,Nigeria,10.2167,11.3833,Q3510505
