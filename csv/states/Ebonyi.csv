@@ -1,0 +1,14 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+212,Abakaliki,311,EB,Ebonyi,161,NG,Nigeria,6.33333333,8.1,Q304976
+213,Afikpo North,311,EB,Ebonyi,161,NG,Nigeria,5.887936,7.953071,Q4689249
+214,Afikpo South,311,EB,Ebonyi,161,NG,Nigeria,5.96666667,7.86666667,Q4689251
+215,Ebonyi,311,EB,Ebonyi,161,NG,Nigeria,6.25,8.08333333,Q506808
+216,Ezza North,311,EB,Ebonyi,161,NG,Nigeria,6.081572,7.995858,Q5423453
+217,Ezza South,311,EB,Ebonyi,161,NG,Nigeria,6.177757,8.040377,Q5423452
+218,Ishielu,311,EB,Ebonyi,161,NG,Nigeria,6.428567,7.818371,Q6080174
+219,Ivo,311,EB,Ebonyi,161,NG,Nigeria,5.919317,7.55976,Q11058348
+220,Izzi,311,EB,Ebonyi,161,NG,Nigeria,6.385765,8.02549,Q24263985
+221,Ohaozara,311,EB,Ebonyi,161,NG,Nigeria,6.030218,7.71407,Q7080620
+222,Ohaukwu,311,EB,Ebonyi,161,NG,Nigeria,6.030218,7.71407,Q7080634
+223,Onicha,311,EB,Ebonyi,161,NG,Nigeria,6.11252,7.825484,Q7093889
+224,Ikwo,311,EB,Ebonyi,161,NG,Nigeria,12.473,7.487,Q5996451

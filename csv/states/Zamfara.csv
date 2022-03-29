@@ -1,0 +1,15 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+761,Anka,299,ZA,Zamfara,161,NG,Nigeria,11.98333333,6.03333333,Q4765937
+762,Bakura,299,ZA,Zamfara,161,NG,Nigeria,12.15,5.9,Q4849604
+763,Birnin Magaji/Kiyaw,299,ZA,Zamfara,161,NG,Nigeria,12.46666667,6.9,Q4916899
+764,Bukkuyum,299,ZA,Zamfara,161,NG,Nigeria,12,5.61666667,Q13140404
+765,Bungudu,299,ZA,Zamfara,161,NG,Nigeria,12.15,6.5,Q4997683
+766,Gummi,299,ZA,Zamfara,161,NG,Nigeria,12.05,5.16666667,Q13140441
+767,Gusau,299,ZA,Zamfara,161,NG,Nigeria,12.166667,6.666667,Q600405
+768,Kaura Namoda,299,ZA,Zamfara,161,NG,Nigeria,12.6,6.589722,Q6378876
+769,Maradun,299,ZA,Zamfara,161,NG,Nigeria,12.75,6.28333333,Q6754606
+770,Maru,299,ZA,Zamfara,161,NG,Nigeria,11.6,6.28333333,Q6777871
+771,Shinkafi,299,ZA,Zamfara,161,NG,Nigeria,13.03333333,6.51666667,Q7497631
+772,Talata Mafara,299,ZA,Zamfara,161,NG,Nigeria,12.35,6.06666667,Q7678957
+773,Tsafe,299,ZA,Zamfara,161,NG,Nigeria,11.93333333,6.9,Q255961
+774,Zurmi,299,ZA,Zamfara,161,NG,Nigeria,12.85,6.73333333,Q8075410

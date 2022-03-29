@@ -1,0 +1,18 @@
+id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
+1,Aba North,303,AB,Abia,161,NG,Nigeria,5.33333333,7.31666667,Q4663114
+2,Aba South,303,AB,Abia,161,NG,Nigeria,5.1,7.35,Q4663117
+3,Arochukwu,303,AB,Abia,161,NG,Nigeria,5.38333333,7.91666667,Q965036
+4,Bende,303,AB,Abia,161,NG,Nigeria,5.56666667,7.63333333,Q4887027
+5,Ikwuano,303,AB,Abia,161,NG,Nigeria,5.43333333,7.56666667,Q5996447
+6,Isiala Ngwa North,303,AB,Abia,161,NG,Nigeria,5.388966,7.446948,Q13140544
+7,Isiala Ngwa South,303,AB,Abia,161,NG,Nigeria,5.36241,7.39998,Q6080818
+8,Isuikwuato,303,AB,Abia,161,NG,Nigeria,5.533333,7.483333,Q6089443
+9,Obi Ngwa,303,AB,Abia,161,NG,Nigeria,5.155402,7.457067,Q7074920
+10,Ohafia,303,AB,Abia,161,NG,Nigeria,5.61666667,7.83333333,Q7080605
+11,Osisioma,303,AB,Abia,161,NG,Nigeria,5.14972222,7.33027778,Q7106876
+12,Ugwunagbo,303,AB,Abia,161,NG,Nigeria,4.984474,7.325783,Q7877949
+13,Ukwa East,303,AB,Abia,161,NG,Nigeria,4.8872,7.3572,Q7878633
+14,Ukwa West,303,AB,Abia,161,NG,Nigeria,4.9884,7.2425,Q11058273
+15,Umu-Nneochi,303,AB,Abia,161,NG,Nigeria,5.985662,7.469005,Q7881822
+16,Umuahia North,303,AB,Abia,161,NG,Nigeria,5.5333,7.4833,Q7881829
+17,Umuahia South,303,AB,Abia,161,NG,Nigeria,5.515311,7.447314,Q7881831
