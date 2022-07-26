@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/xosasx/nigerian-local-government-areas/v1.3.0...v1.3.1) (2022-07-26)
+
+### Bug Fixes
+
+-   coords update ([83d8c03](https://github.com/xosasx/nigerian-local-government-areas/commits/83d8c03b7b8d2c7dd191d03c9f5842d2f92d0c65))
+-   reviewed coords, bakassi left as is because of presence in inec docs ([bcb7551](https://github.com/xosasx/nigerian-local-government-areas/commits/bcb75518d2723b0a63a5dbf9dd74a3bfabf4a7ea))
+
+### [1.2.1](https://github.com/xosasx/nigerian-local-government-areas/v1.2.0...v1.2.1) (2022-03-29)
+
 ## [1.3.0](https://github.com/xosasx/nigerian-local-government-areas/v1.2.0...v1.3.0) (2022-03-29)
 
 ### Features
