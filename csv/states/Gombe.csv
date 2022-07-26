@@ -1,5 +1,5 @@
 id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
-282,Akko,310,GO,Gombe,161,NG,Nigeria,32.92777778,35.08166667,Q126084
+282,Akko,310,GO,Gombe,161,NG,Nigeria,10.10706761352457,11.041261362116334,Q126084
 283,Balanga,310,GO,Gombe,161,NG,Nigeria,9.96666667,11.68333333,Q4374738
 284,Billiri,310,GO,Gombe,161,NG,Nigeria,9.83333333,11.15,Q3510517
 285,Dukku,310,GO,Gombe,161,NG,Nigeria,10.81666667,10.76666667,Q5313235

@@ -200,7 +200,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 199,Okpe,316,DE,Delta,161,NG,Nigeria,5.43333333,5.95,Q7082548
 200,Oshimili North,316,DE,Delta,161,NG,Nigeria,6.382652,6.624309,Q7106622
 201,Oshimili South,316,DE,Delta,161,NG,Nigeria,6.118256,6.66583,Q7106620
-202,Patani,316,DE,Delta,161,NG,Nigeria,6.75,100.41666667,Q2478838
+202,Patani,316,DE,Delta,161,NG,Nigeria,5.2412505830419045,6.190626760617503,Q2478838
 203,Sapele,316,DE,Delta,161,NG,Nigeria,5.9,5.66666667,Q3495356
 204,Udu,316,DE,Delta,161,NG,Nigeria,5.75,5.716667,Q7877316
 205,Ughelli North,316,DE,Delta,161,NG,Nigeria,9.75,8.71666667,Q15043628
@@ -280,7 +280,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 279,Gwagwalada,293,FC,Federal Capital Territory,161,NG,Nigeria,8.939167,7.075833,Q2285343
 280,Kuje,293,FC,Federal Capital Territory,161,NG,Nigeria,8.88222222,7.22027778,Q6442341
 281,Kwali,293,FC,Federal Capital Territory,161,NG,Nigeria,8.839722,7.054167,Q6450057
-282,Akko,310,GO,Gombe,161,NG,Nigeria,32.92777778,35.08166667,Q126084
+282,Akko,310,GO,Gombe,161,NG,Nigeria,10.10706761352457,11.041261362116334,Q126084
 283,Balanga,310,GO,Gombe,161,NG,Nigeria,9.96666667,11.68333333,Q4374738
 284,Billiri,310,GO,Gombe,161,NG,Nigeria,9.83333333,11.15,Q3510517
 285,Dukku,310,GO,Gombe,161,NG,Nigeria,10.81666667,10.76666667,Q5313235
@@ -327,7 +327,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 326,Gagarawa,288,JI,Jigawa,161,NG,Nigeria,12.407564,9.528397,Q5516809
 327,Garki,288,JI,Jigawa,161,NG,Nigeria,12.432259,9.181244,Q5523392
 328,Gumel,288,JI,Jigawa,161,NG,Nigeria,12.62833333,9.38972222,Q1023716
-329,Guri,288,JI,Jigawa,161,NG,Nigeria,37.6,127.15,Q42071
+329,Guri,288,JI,Jigawa,161,NG,Nigeria,12.633757685656763,10.481106764515644,Q42071
 330,Gwaram,288,JI,Jigawa,161,NG,Nigeria,11.185833,9.968611,Q5623339
 331,Gwiwa,288,JI,Jigawa,161,NG,Nigeria,12.736914,8.271095,Q5623681
 332,Hadejia,288,JI,Jigawa,161,NG,Nigeria,12.45,10.04,Q5637733
@@ -343,7 +343,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 342,Ringim,288,JI,Jigawa,161,NG,Nigeria,12.28333333,9.46666667,Q7334893
 343,Roni,288,JI,Jigawa,161,NG,Nigeria,12.566481,8.347088,Q7365684
 344,Sule Tankarkar,288,JI,Jigawa,161,NG,Nigeria,12.65577,9.18751,Q7636102
-345,Taura,288,JI,Jigawa,161,NG,Nigeria,50.91833333,12.84083333,Q71057
+345,Taura,288,JI,Jigawa,161,NG,Nigeria,12.2724893,9.36241882485775,Q71057
 346,Yankwashi,288,JI,Jigawa,161,NG,Nigeria,12.743623,8.53892,Q8048834
 347,Birnin Gwari,294,KD,Kaduna,161,NG,Nigeria,10.6667,6.55,Q13140400
 348,Chikun,294,KD,Kaduna,161,NG,Nigeria,10.285059,7.110283,Q5097501
@@ -387,7 +387,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 386,Gezawa,300,KN,Kano,161,NG,Nigeria,12.1,8.73333333,Q5555061
 387,Gwale,300,KN,Kano,161,NG,Nigeria,11.96666667,8.5,Q5623248
 388,Gwarzo,300,KN,Kano,161,NG,Nigeria,11.91666667,7.93333333,Q5623352
-389,Kabo,300,KN,Kano,161,NG,Nigeria,7.69944444,18.62916667,Q2428075
+389,Kabo,300,KN,Kano,161,NG,Nigeria,11.891463250000001,8.200628471157401,Q2428075
 390,Kano Municipal,300,KN,Kano,161,NG,Nigeria,11.95194444,8.54027778,Q10313749
 391,Karaye,300,KN,Kano,161,NG,Nigeria,11.78333333,8.01666667,Q6368888
 392,Kibiya,300,KN,Kano,161,NG,Nigeria,11.53333333,8.66666667,Q6404045
@@ -403,7 +403,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 402,Rogo,300,KN,Kano,161,NG,Nigeria,11.56666667,7.83333333,Q7359427
 403,Shanono,300,KN,Kano,161,NG,Nigeria,12.05,7.98333333,Q7489007
 404,Sumaila,300,KN,Kano,161,NG,Nigeria,11.53333333,8.96666667,Q7636917
-405,Takai,300,KN,Kano,161,NG,Nigeria,20.51666667,84.33333333,Q48723575
+405,Takai,300,KN,Kano,161,NG,Nigeria,11.4853125,9.156044842198048,Q48723575
 406,Tarauni,300,KN,Kano,161,NG,Nigeria,11.96666667,8.56666667,Q9081916
 407,Tofa,300,KN,Kano,161,NG,Nigeria,12.05,8.26666667,Q7812950
 408,Tsanyawa,300,KN,Kano,161,NG,Nigeria,12.3,7.98333333,Q7849383
@@ -497,7 +497,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 496,Ilorin South,295,KW,Kwara,161,NG,Nigeria,8.498688,4.562779,Q16733661
 497,Ilorin West,295,KW,Kwara,161,NG,Nigeria,8.480048,4.614006,Q6001104
 498,Irepodun,295,KW,Kwara,161,NG,Nigeria,8.487457,4.527301,Q10303589
-499,Isin,295,KW,Kwara,161,NG,Nigeria,31.885,45.26861111,Q501259
+499,Isin,295,KW,Kwara,161,NG,Nigeria,8.2579064,5.038849070678933,Q501259
 500,Kaiama,295,KW,Kwara,161,NG,Nigeria,9.605193,3.941946,Q14653808
 501,Moro,295,KW,Kwara,161,NG,Nigeria,8.845,4.556667,Q6913056
 502,Offa,295,KW,Kwara,161,NG,Nigeria,8.147,4.72,Q2015456
@@ -669,8 +669,8 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 668,Jos East,302,PL,Plateau,161,NG,Nigeria,9.91666667,9.1,Q6279114
 669,Jos North,302,PL,Plateau,161,NG,Nigeria,9.91666667,8.9,Q10967141
 670,Jos South,302,PL,Plateau,161,NG,Nigeria,9.76666667,8.8,Q6279136
-671,Kanam,302,PL,Plateau,161,NG,Nigeria,8.545886,78.061964,Q50319543
-672,Kanke,302,PL,Plateau,161,NG,Nigeria,23.43,85.32,Q660473
+671,Kanam,302,PL,Plateau,161,NG,Nigeria,9.56601387018746,9.991505892537331,Q50319543
+672,Kanke,302,PL,Plateau,161,NG,Nigeria,9.367178899999999,9.639354933485457,Q660473
 673,Langtang North,302,PL,Plateau,161,NG,Nigeria,9.13333333,9.78333333,Q6486557
 674,Langtang South,302,PL,Plateau,161,NG,Nigeria,8.63333333,9.8,Q6486563
 675,Mangu,302,PL,Plateau,161,NG,Nigeria,9.43333333,9.13333333,Q6749158
@@ -727,7 +727,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 726,Yabo,292,SO,Sokoto,161,NG,Nigeria,12.71916667,5.00616667,Q8046387
 727,Kebbe,292,SO,Sokoto,161,NG,Nigeria,12.13333333,4.73333333,Q6382383
 728,Ardo Kola,319,TA,Taraba,161,NG,Nigeria,8.8467,11.2067,Q4788221
-729,Bali,319,TA,Taraba,161,NG,Nigeria,-8.335,115.08805556,Q3125978
+729,Bali,319,TA,Taraba,161,NG,Nigeria,7.854286164866859,10.963562199223984,Q3125978
 730,Donga,319,TA,Taraba,161,NG,Nigeria,7.55,10.28333333,Q5295795
 731,Gashaka,319,TA,Taraba,161,NG,Nigeria,7.506556,11.364155,Q5603451
 732,Gassol,319,TA,Taraba,161,NG,Nigeria,8.4,10.5333,Q3510096

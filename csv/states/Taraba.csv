@@ -1,6 +1,6 @@
 id,name,state_id,state_code,state_name,country_id,country_code,country_name,latitude,longitude,wikiDataId
 728,Ardo Kola,319,TA,Taraba,161,NG,Nigeria,8.8467,11.2067,Q4788221
-729,Bali,319,TA,Taraba,161,NG,Nigeria,-8.335,115.08805556,Q3125978
+729,Bali,319,TA,Taraba,161,NG,Nigeria,7.854286164866859,10.963562199223984,Q3125978
 730,Donga,319,TA,Taraba,161,NG,Nigeria,7.55,10.28333333,Q5295795
 731,Gashaka,319,TA,Taraba,161,NG,Nigeria,7.506556,11.364155,Q5603451
 732,Gassol,319,TA,Taraba,161,NG,Nigeria,8.4,10.5333,Q3510096

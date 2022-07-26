@@ -5,8 +5,8 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 668,Jos East,302,PL,Plateau,161,NG,Nigeria,9.91666667,9.1,Q6279114
 669,Jos North,302,PL,Plateau,161,NG,Nigeria,9.91666667,8.9,Q10967141
 670,Jos South,302,PL,Plateau,161,NG,Nigeria,9.76666667,8.8,Q6279136
-671,Kanam,302,PL,Plateau,161,NG,Nigeria,8.545886,78.061964,Q50319543
-672,Kanke,302,PL,Plateau,161,NG,Nigeria,23.43,85.32,Q660473
+671,Kanam,302,PL,Plateau,161,NG,Nigeria,9.56601387018746,9.991505892537331,Q50319543
+672,Kanke,302,PL,Plateau,161,NG,Nigeria,9.367178899999999,9.639354933485457,Q660473
 673,Langtang North,302,PL,Plateau,161,NG,Nigeria,9.13333333,9.78333333,Q6486557
 674,Langtang South,302,PL,Plateau,161,NG,Nigeria,8.63333333,9.8,Q6486563
 675,Mangu,302,PL,Plateau,161,NG,Nigeria,9.43333333,9.13333333,Q6749158

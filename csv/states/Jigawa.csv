@@ -8,7 +8,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 326,Gagarawa,288,JI,Jigawa,161,NG,Nigeria,12.407564,9.528397,Q5516809
 327,Garki,288,JI,Jigawa,161,NG,Nigeria,12.432259,9.181244,Q5523392
 328,Gumel,288,JI,Jigawa,161,NG,Nigeria,12.62833333,9.38972222,Q1023716
-329,Guri,288,JI,Jigawa,161,NG,Nigeria,37.6,127.15,Q42071
+329,Guri,288,JI,Jigawa,161,NG,Nigeria,12.633757685656763,10.481106764515644,Q42071
 330,Gwaram,288,JI,Jigawa,161,NG,Nigeria,11.185833,9.968611,Q5623339
 331,Gwiwa,288,JI,Jigawa,161,NG,Nigeria,12.736914,8.271095,Q5623681
 332,Hadejia,288,JI,Jigawa,161,NG,Nigeria,12.45,10.04,Q5637733
@@ -24,5 +24,5 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 342,Ringim,288,JI,Jigawa,161,NG,Nigeria,12.28333333,9.46666667,Q7334893
 343,Roni,288,JI,Jigawa,161,NG,Nigeria,12.566481,8.347088,Q7365684
 344,Sule Tankarkar,288,JI,Jigawa,161,NG,Nigeria,12.65577,9.18751,Q7636102
-345,Taura,288,JI,Jigawa,161,NG,Nigeria,50.91833333,12.84083333,Q71057
+345,Taura,288,JI,Jigawa,161,NG,Nigeria,12.2724893,9.36241882485775,Q71057
 346,Yankwashi,288,JI,Jigawa,161,NG,Nigeria,12.743623,8.53892,Q8048834

@@ -14,7 +14,7 @@ id,name,state_id,state_code,state_name,country_id,country_code,country_name,lati
 199,Okpe,316,DE,Delta,161,NG,Nigeria,5.43333333,5.95,Q7082548
 200,Oshimili North,316,DE,Delta,161,NG,Nigeria,6.382652,6.624309,Q7106622
 201,Oshimili South,316,DE,Delta,161,NG,Nigeria,6.118256,6.66583,Q7106620
-202,Patani,316,DE,Delta,161,NG,Nigeria,6.75,100.41666667,Q2478838
+202,Patani,316,DE,Delta,161,NG,Nigeria,5.2412505830419045,6.190626760617503,Q2478838
 203,Sapele,316,DE,Delta,161,NG,Nigeria,5.9,5.66666667,Q3495356
 204,Udu,316,DE,Delta,161,NG,Nigeria,5.75,5.716667,Q7877316
 205,Ughelli North,316,DE,Delta,161,NG,Nigeria,9.75,8.71666667,Q15043628
