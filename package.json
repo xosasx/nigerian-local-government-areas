@@ -1,6 +1,6 @@
 {
     "name": "nigerian-local-government-areas",
-    "version": "1.3.1",
+    "version": "1.4.0",
     "description": "A collection of all 774 local government areas in Nigeria.",
     "main": "index.js",
     "scripts": {

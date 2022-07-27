@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/xosasx/nigerian-local-government-areas/v1.3.1...v1.4.0) (2022-07-27)
+
+### Features
+
+-   added all yaml lgas and grouped by state ([6767363](https://github.com/xosasx/nigerian-local-government-areas/commits/6767363efb7a7b612809c433d602857257e0289c))
+
 ### [1.3.1](https://github.com/xosasx/nigerian-local-government-areas/v1.3.0...v1.3.1) (2022-07-26)
 
 ### Bug Fixes
