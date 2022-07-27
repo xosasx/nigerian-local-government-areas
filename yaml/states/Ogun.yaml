@@ -1,0 +1,221 @@
+ogun:
+  - id: 564
+    name: Abeokuta North
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.2
+    longitude: 3.2
+    wikiDataId: Q3509588
+  - id: 565
+    name: Abeokuta South
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.15
+    longitude: 3.35
+    wikiDataId: Q3509517
+  - id: 566
+    name: Ado-Odo/Ota
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.63333333
+    longitude: 3.1
+    wikiDataId: Q3510345
+  - id: 567
+    name: Ewekoro
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.93333333
+    longitude: 3.21666667
+    wikiDataId: Q5418952
+  - id: 568
+    name: Ifo
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.81666667
+    longitude: 3.2
+    wikiDataId: Q5991216
+  - id: 569
+    name: Ijebu East
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.73333333
+    longitude: 4.16666667
+    wikiDataId: Q5995157
+  - id: 570
+    name: Ijebu North
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.95
+    longitude: 4
+    wikiDataId: Q5995160
+  - id: 571
+    name: Ijebu North East
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.9
+    longitude: 4.01666667
+    wikiDataId: Q10301003
+  - id: 572
+    name: Ijebu Ode
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.82083333
+    longitude: 3.92083333
+    wikiDataId: Q1023726
+  - id: 573
+    name: Ikenne
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.86666667
+    longitude: 3.71666667
+    wikiDataId: Q5995826
+  - id: 574
+    name: Imeko Afon
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.63333333
+    longitude: 2.86666667
+    wikiDataId: Q6003726
+  - id: 575
+    name: Ipokia
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.53333333
+    longitude: 2.85
+    wikiDataId: Q6065226
+  - id: 576
+    name: Obafemi Owode
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.95
+    longitude: 3.5
+    wikiDataId: Q7074576
+  - id: 577
+    name: Odeda
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.21666667
+    longitude: 3.51666667
+    wikiDataId: Q7077620
+  - id: 578
+    name: Odogbolu
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.76666667
+    longitude: 3.8
+    wikiDataId: Q10667640
+  - id: 579
+    name: Ogun Waterside
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.48333333
+    longitude: 4.4
+    wikiDataId: Q7080284
+  - id: 580
+    name: Remo North
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7
+    longitude: 3.71666667
+    wikiDataId: Q7312042
+  - id: 581
+    name: Shagamu
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.83333333
+    longitude: 3.65
+    wikiDataId: Q2276423
+  - id: 582
+    name: Yewa North
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.15
+    longitude: 2.91666667
+    wikiDataId: Q8053331
+  - id: 583
+    name: Yewa South
+    state_id: 323
+    state_code: OG
+    state_name: Ogun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.8
+    longitude: 2.95
+    wikiDataId: Q3511626

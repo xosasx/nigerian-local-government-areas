@@ -1,0 +1,122 @@
+gombe:
+  - id: 282
+    name: Akko
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.10706761352457
+    longitude: 11.041261362116334
+    wikiDataId: Q126084
+  - id: 283
+    name: Balanga
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.96666667
+    longitude: 11.68333333
+    wikiDataId: Q4374738
+  - id: 284
+    name: Billiri
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.83333333
+    longitude: 11.15
+    wikiDataId: Q3510517
+  - id: 285
+    name: Dukku
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.81666667
+    longitude: 10.76666667
+    wikiDataId: Q5313235
+  - id: 286
+    name: Funakaye
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.85
+    longitude: 11.43333333
+    wikiDataId: Q5508725
+  - id: 287
+    name: Gombe
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.28333333
+    longitude: 11.16666667
+    wikiDataId: Q591598
+  - id: 288
+    name: Kaltungo
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.88333333
+    longitude: 11.43333333
+    wikiDataId: Q6354502
+  - id: 289
+    name: Kwami
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.5
+    longitude: 11.25
+    wikiDataId: Q6450109
+  - id: 290
+    name: Nafada
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.1333
+    longitude: 11.25
+    wikiDataId: Q6958144
+  - id: 291
+    name: Shongom
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.65
+    longitude: 11.2167
+    wikiDataId: Q7500408
+  - id: 292
+    name: Yamaltu/Deba
+    state_id: 310
+    state_code: GO
+    state_name: Gombe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.2167
+    longitude: 11.3833
+    wikiDataId: Q3510505

@@ -1,0 +1,144 @@
+ebonyi:
+  - id: 212
+    name: Abakaliki
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.33333333
+    longitude: 8.1
+    wikiDataId: Q304976
+  - id: 213
+    name: Afikpo North
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.887936
+    longitude: 7.953071
+    wikiDataId: Q4689249
+  - id: 214
+    name: Afikpo South
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.96666667
+    longitude: 7.86666667
+    wikiDataId: Q4689251
+  - id: 215
+    name: Ebonyi
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.25
+    longitude: 8.08333333
+    wikiDataId: Q506808
+  - id: 216
+    name: Ezza North
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.081572
+    longitude: 7.995858
+    wikiDataId: Q5423453
+  - id: 217
+    name: Ezza South
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.177757
+    longitude: 8.040377
+    wikiDataId: Q5423452
+  - id: 218
+    name: Ishielu
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.428567
+    longitude: 7.818371
+    wikiDataId: Q6080174
+  - id: 219
+    name: Ivo
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.919317
+    longitude: 7.55976
+    wikiDataId: Q11058348
+  - id: 220
+    name: Izzi
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.385765
+    longitude: 8.02549
+    wikiDataId: Q24263985
+  - id: 221
+    name: Ohaozara
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.030218
+    longitude: 7.71407
+    wikiDataId: Q7080620
+  - id: 222
+    name: Ohaukwu
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.030218
+    longitude: 7.71407
+    wikiDataId: Q7080634
+  - id: 223
+    name: Onicha
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.11252
+    longitude: 7.825484
+    wikiDataId: Q7093889
+  - id: 224
+    name: Ikwo
+    state_id: 311
+    state_code: EB
+    state_name: Ebonyi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.473
+    longitude: 7.487
+    wikiDataId: Q5996451

@@ -1,0 +1,144 @@
+nasarawa:
+  - id: 526
+    name: Akwanga
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.91666667
+    longitude: 8.38333333
+    wikiDataId: Q4702008
+  - id: 527
+    name: Awe
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.823611
+    longitude: 3.95
+    wikiDataId: Q11010622
+  - id: 528
+    name: Doma
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.396241
+    longitude: 8.35864
+    wikiDataId: Q5289773
+  - id: 529
+    name: Karu
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.019231
+    longitude: 7.613516
+    wikiDataId: Q6373591
+  - id: 530
+    name: Keana
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.147346
+    longitude: 8.800478
+    wikiDataId: Q6382153
+  - id: 531
+    name: Keffi
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.8464
+    longitude: 7.8733
+    wikiDataId: Q3510599
+  - id: 532
+    name: Kokona
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.85
+    longitude: 5.08333333
+    wikiDataId: Q6426774
+  - id: 533
+    name: Lafia
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.49166667
+    longitude: 8.51666667
+    wikiDataId: Q1023721
+  - id: 534
+    name: Nasarawa
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.53333333
+    longitude: 8.3
+    wikiDataId: Q836645
+  - id: 535
+    name: Nasarawa Egon
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.741115
+    longitude: 8.542192
+    wikiDataId: Q17109172
+  - id: 536
+    name: Obi
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7
+    longitude: 8.25
+    wikiDataId: Q4207508
+  - id: 537
+    name: Toto
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.388021
+    longitude: 7.078199
+    wikiDataId: Q7828363
+  - id: 538
+    name: Wamba
+    state_id: 301
+    state_code: NA
+    state_name: Nasarawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.93333333
+    longitude: 8.6
+    wikiDataId: Q3331559

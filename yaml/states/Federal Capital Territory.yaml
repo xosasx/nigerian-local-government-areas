@@ -1,0 +1,67 @@
+federal-capital-territory:
+  - id: 276
+    name: Abaji
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.475556
+    longitude: 6.943333
+    wikiDataId: Q1053237
+  - id: 277
+    name: Abuja
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.06666667
+    longitude: 7.48333333
+    wikiDataId: Q3787
+  - id: 278
+    name: Bwari
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.280278
+    longitude: 7.38
+    wikiDataId: Q5003670
+  - id: 279
+    name: Gwagwalada
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.939167
+    longitude: 7.075833
+    wikiDataId: Q2285343
+  - id: 280
+    name: Kuje
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.88222222
+    longitude: 7.22027778
+    wikiDataId: Q6442341
+  - id: 281
+    name: Kwali
+    state_id: 293
+    state_code: FC
+    state_name: Federal Capital Territory
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.839722
+    longitude: 7.054167
+    wikiDataId: Q6450057

@@ -1,0 +1,298 @@
+imo:
+  - id: 293
+    name: Aboh Mbaise
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.45
+    longitude: 7.23333333
+    wikiDataId: Q4668212
+  - id: 294
+    name: Ahiazu Mbaise
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.546985
+    longitude: 7.270299
+    wikiDataId: Q4695100
+  - id: 295
+    name: Ehime Mbano
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.66258
+    longitude: 7.30387
+    wikiDataId: Q5348582
+  - id: 296
+    name: Ezinihitte Mbaise
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.50511
+    longitude: 7.367715
+    wikiDataId: Q5423295
+  - id: 297
+    name: Ideato North
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.50511
+    longitude: 7.367715
+    wikiDataId: Q5988103
+  - id: 298
+    name: Ideato South
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.85
+    longitude: 7.1
+    wikiDataId: Q5988113
+  - id: 299
+    name: Ihitte/Uboma
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.616412
+    longitude: 7.349424
+    wikiDataId: Q5994706
+  - id: 300
+    name: Ikeduru
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.550556
+    longitude: 7.066389
+    wikiDataId: Q5995775
+  - id: 301
+    name: Isiala Mbano
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.703582
+    longitude: 7.179541
+    wikiDataId: Q6080814
+  - id: 302
+    name: Isu
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.68388889
+    longitude: 7.06888889
+    wikiDataId: Q11058579
+  - id: 303
+    name: Mbaitoli
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.587778
+    longitude: 7.05
+    wikiDataId: Q11057544
+  - id: 304
+    name: Ngor Okpala
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.496233
+    longitude: 7.043545
+    wikiDataId: Q7022569
+  - id: 305
+    name: Njaba
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.702103
+    longitude: 7.018633
+    wikiDataId: Q10491509
+  - id: 306
+    name: Nkwerre
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.75
+    longitude: 7.1
+    wikiDataId: Q3509029
+  - id: 307
+    name: Nwangele
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.725859
+    longitude: 7.119447
+    wikiDataId: Q7070734
+  - id: 308
+    name: Obowo
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.601592
+    longitude: 7.320757
+    wikiDataId: Q7075319
+  - id: 309
+    name: Oguta
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.71166667
+    longitude: 6.80944444
+    wikiDataId: Q3510973
+  - id: 310
+    name: Ohaji/Egbema
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.305833
+    longitude: 6.945556
+    wikiDataId: Q7080607
+  - id: 311
+    name: Okigwe
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.483
+    longitude: 7.55
+    wikiDataId: Q3509182
+  - id: 312
+    name: Onuimo
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.77363
+    longitude: 7.2411
+    wikiDataId: Q7095088
+  - id: 313
+    name: Orlu
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.79638889
+    longitude: 7.03888889
+    wikiDataId: Q3508985
+  - id: 314
+    name: Orsu
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.853889
+    longitude: 6.86
+    wikiDataId: Q7104193
+  - id: 315
+    name: Oru East
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.983333
+    longitude: 6.983333
+    wikiDataId: Q7105120
+  - id: 316
+    name: Oru West
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.735833
+    longitude: 6.883333
+    wikiDataId: Q7105149
+  - id: 317
+    name: Owerri Municipal
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.485
+    longitude: 7.035
+    wikiDataId: Q7114779
+  - id: 318
+    name: Owerri North
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.456667
+    longitude: 7.102778
+    wikiDataId: Q7114782
+  - id: 319
+    name: Owerri West
+    state_id: 308
+    state_code: IM
+    state_name: Imo
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.476513
+    longitude: 6.979718
+    wikiDataId: Q7114784

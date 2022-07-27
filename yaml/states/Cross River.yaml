@@ -1,0 +1,199 @@
+cross-river:
+  - id: 169
+    name: Abi
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.833333
+    longitude: 7.233333
+    wikiDataId: Q3510527
+  - id: 170
+    name: Akamkpa
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.326828
+    longitude: 8.346262
+    wikiDataId: Q4700237
+  - id: 171
+    name: Akpabuyo
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.950439
+    longitude: 8.393276
+    wikiDataId: Q4701571
+  - id: 172
+    name: Bakassi
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.58333333
+    longitude: 8.6
+    wikiDataId: Q804272
+  - id: 173
+    name: Bekwarra
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.69388889
+    longitude: 8.9675
+    wikiDataId: Q4881684
+  - id: 174
+    name: Biase
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.557438
+    longitude: 8.110474
+    wikiDataId: Q4902588
+  - id: 175
+    name: Boki
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.273889
+    longitude: 9.01
+    wikiDataId: Q4938771
+  - id: 176
+    name: Calabar Municipal
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.974531
+    longitude: 8.34241
+    wikiDataId: Q5018280
+  - id: 177
+    name: Calabar South
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.918822
+    longitude: 8.320945
+    wikiDataId: Q5018279
+  - id: 178
+    name: Etung
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.858889
+    longitude: 8.791667
+    wikiDataId: Q5405088
+  - id: 179
+    name: Ikom
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.08333333
+    longitude: 8.61666667
+    wikiDataId: Q5996091
+  - id: 180
+    name: Obanliku
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.609277
+    longitude: 9.250274
+    wikiDataId: Q7074630
+  - id: 181
+    name: Obubra
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.083333
+    longitude: 8.333333
+    wikiDataId: Q7075578
+  - id: 182
+    name: Obudu
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.66666667
+    longitude: 9.16666667
+    wikiDataId: Q7075580
+  - id: 183
+    name: Odukpani
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.079809
+    longitude: 8.350403
+    wikiDataId: Q7078367
+  - id: 184
+    name: Ogoja
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.5
+    longitude: 8.66666667
+    wikiDataId: Q3509254
+  - id: 185
+    name: Yakurr
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.806111
+    longitude: 8.175
+    wikiDataId: Q8047268
+  - id: 186
+    name: Yala
+    state_id: 314
+    state_code: CR
+    state_name: Cross River
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.7
+    longitude: 8.6
+    wikiDataId: Q8047286

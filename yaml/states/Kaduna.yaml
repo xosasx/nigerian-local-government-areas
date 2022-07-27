@@ -1,0 +1,254 @@
+kaduna:
+  - id: 347
+    name: Birnin Gwari
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.6667
+    longitude: 6.55
+    wikiDataId: Q13140400
+  - id: 348
+    name: Chikun
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.285059
+    longitude: 7.110283
+    wikiDataId: Q5097501
+  - id: 349
+    name: Giwa
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.280784
+    longitude: 7.417606
+    wikiDataId: Q5565892
+  - id: 350
+    name: Igabi
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.78333333
+    longitude: 7.76666667
+    wikiDataId: Q5991414
+  - id: 351
+    name: Ikara
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.1833
+    longitude: 8.23333
+    wikiDataId: Q5995371
+  - id: 352
+    name: Jaba
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.44818
+    longitude: 8.00845
+    wikiDataId: Q13140472
+  - id: 353
+    name: Jema'a
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.578827
+    longitude: 8.292147
+    wikiDataId: Q6177061
+  - id: 354
+    name: Kachia
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.872636
+    longitude: 7.955089
+    wikiDataId: Q6344670
+  - id: 355
+    name: Kaduna North
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.923174
+    longitude: 7.430551
+    wikiDataId: Q13140547
+  - id: 356
+    name: Kaduna South
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.464834
+    longitude: 7.418024
+    wikiDataId: Q6345763
+  - id: 357
+    name: Kagarko
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.45
+    longitude: 7.68333333
+    wikiDataId: Q6346376
+  - id: 358
+    name: Kajuru
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.489736
+    longitude: 7.695075
+    wikiDataId: Q6349067
+  - id: 359
+    name: Kaura
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.630686
+    longitude: 8.503075
+    wikiDataId: Q6378873
+  - id: 360
+    name: Kauru
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.65
+    longitude: 8.15
+    wikiDataId: Q6378904
+  - id: 361
+    name: Kubau
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.96289
+    longitude: 8.392213
+    wikiDataId: Q6441191
+  - id: 362
+    name: Kudan
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.26478
+    longitude: 7.648952
+    wikiDataId: Q6441647
+  - id: 363
+    name: Lere
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.416589
+    longitude: 8.681673
+    wikiDataId: Q6528787
+  - id: 364
+    name: Makarfi
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.29795
+    longitude: 7.96917
+    wikiDataId: Q6738780
+  - id: 365
+    name: Sabon Gari
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.1167
+    longitude: 7.73333
+    wikiDataId: Q7396283
+  - id: 366
+    name: Sanga
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.225183
+    longitude: 8.459182
+    wikiDataId: Q5290125
+  - id: 367
+    name: Soba
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.984935
+    longitude: 8.058804
+    wikiDataId: Q7549885
+  - id: 368
+    name: Zangon Kataf
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.784597
+    longitude: 8.283949
+    wikiDataId: Q8066201
+  - id: 369
+    name: Zaria
+    state_id: 294
+    state_code: KD
+    state_name: Kaduna
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.06666667
+    longitude: 7.7
+    wikiDataId: Q147975

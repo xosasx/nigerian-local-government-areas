@@ -1,0 +1,177 @@
+kwara:
+  - id: 490
+    name: Asa
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.324804
+    longitude: 4.533673
+    wikiDataId: Q3510490
+  - id: 491
+    name: Baruten
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.58333333
+    longitude: 3.25
+    wikiDataId: Q4865926
+  - id: 492
+    name: Edu
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.841903
+    longitude: 5.399178
+    wikiDataId: Q5340346
+  - id: 493
+    name: Ekiti
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.139435
+    longitude: 5.32809
+    wikiDataId: Q3511682
+  - id: 494
+    name: Ifelodun
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.820023
+    longitude: 4.967322
+    wikiDataId: Q5991150
+  - id: 495
+    name: Ilorin East
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.573234
+    longitude: 4.703608
+    wikiDataId: Q6001095
+  - id: 496
+    name: Ilorin South
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.498688
+    longitude: 4.562779
+    wikiDataId: Q16733661
+  - id: 497
+    name: Ilorin West
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.480048
+    longitude: 4.614006
+    wikiDataId: Q6001104
+  - id: 498
+    name: Irepodun
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.487457
+    longitude: 4.527301
+    wikiDataId: Q10303589
+  - id: 499
+    name: Isin
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.2579064
+    longitude: 5.038849070678933
+    wikiDataId: Q501259
+  - id: 500
+    name: Kaiama
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.605193
+    longitude: 3.941946
+    wikiDataId: Q14653808
+  - id: 501
+    name: Moro
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.845
+    longitude: 4.556667
+    wikiDataId: Q6913056
+  - id: 502
+    name: Offa
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.147
+    longitude: 4.72
+    wikiDataId: Q2015456
+  - id: 503
+    name: Oke-Ero
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.088888
+    longitude: 5.144659
+    wikiDataId: Q7081881
+  - id: 504
+    name: Oyun
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.16827
+    longitude: 4.65212
+    wikiDataId: Q7116389
+  - id: 505
+    name: Pategi
+    state_id: 295
+    state_code: KW
+    state_name: Kwara
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.73333333
+    longitude: 5.75
+    wikiDataId: Q7144399

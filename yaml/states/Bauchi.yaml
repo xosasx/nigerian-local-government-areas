@@ -1,0 +1,221 @@
+bauchi:
+  - id: 91
+    name: Alkaleri
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.88333333
+    longitude: 10.5
+    wikiDataId: Q4727632
+  - id: 92
+    name: Bauchi
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.31583333
+    longitude: 9.84416667
+    wikiDataId: Q811144
+  - id: 93
+    name: Bogoro
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.66852
+    longitude: 9.60395
+    wikiDataId: Q4937728
+  - id: 94
+    name: Damban
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.62592
+    longitude: 10.78622
+    wikiDataId: Q5212083
+  - id: 95
+    name: Darazo
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11
+    longitude: 10.41
+    wikiDataId: Q5222130
+  - id: 96
+    name: Dass
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.126111
+    longitude: 9.484704
+    wikiDataId: Q5226825
+  - id: 97
+    name: Gamawa
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.133333
+    longitude: 10.533333
+    wikiDataId: Q5519589
+  - id: 98
+    name: Ganjuwa
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.868124
+    longitude: 10.165283
+    wikiDataId: Q5521392
+  - id: 99
+    name: Giade
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.390251
+    longitude: 10.199128
+    wikiDataId: Q5557957
+  - id: 100
+    name: Itas/Gadau
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.86666667
+    longitude: 9.96666667
+    wikiDataId: Q13140468
+  - id: 101
+    name: Jama'are
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.669111
+    longitude: 9.928958
+    wikiDataId: Q6127132
+  - id: 102
+    name: Katagum
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.28333333
+    longitude: 10.35
+    wikiDataId: Q6375000
+  - id: 103
+    name: Kirfi
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.4
+    longitude: 10.4
+    wikiDataId: Q6415063
+  - id: 104
+    name: Misau
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.313599
+    longitude: 10.463126
+    wikiDataId: Q2078475
+  - id: 105
+    name: Ningi
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.06666667
+    longitude: 9.56666667
+    wikiDataId: Q7038694
+  - id: 106
+    name: Shira
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.50416667
+    longitude: 10.01722222
+    wikiDataId: Q7498205
+  - id: 107
+    name: Tafawa Balewa
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.759094
+    longitude: 9.553127
+    wikiDataId: Q7674928
+  - id: 108
+    name: Toro
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.059364
+    longitude: 9.071724
+    wikiDataId: Q11058424
+  - id: 109
+    name: Warji
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.18333333
+    longitude: 9.75
+    wikiDataId: Q7969461
+  - id: 110
+    name: Zaki
+    state_id: 312
+    state_code: BA
+    state_name: Bauchi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.13333333
+    longitude: 10.28333333
+    wikiDataId: Q8065082

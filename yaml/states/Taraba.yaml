@@ -1,0 +1,177 @@
+taraba:
+  - id: 728
+    name: Ardo Kola
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.8467
+    longitude: 11.2067
+    wikiDataId: Q4788221
+  - id: 729
+    name: Bali
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.854286164866859
+    longitude: 10.963562199223984
+    wikiDataId: Q3125978
+  - id: 730
+    name: Donga
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.55
+    longitude: 10.28333333
+    wikiDataId: Q5295795
+  - id: 731
+    name: Gashaka
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.506556
+    longitude: 11.364155
+    wikiDataId: Q5603451
+  - id: 732
+    name: Gassol
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.4
+    longitude: 10.5333
+    wikiDataId: Q3510096
+  - id: 733
+    name: Ibi
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.31666667
+    longitude: 9.85
+    wikiDataId: Q5984020
+  - id: 734
+    name: Jalingo
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.9
+    longitude: 11.36666667
+    wikiDataId: Q1023720
+  - id: 735
+    name: Karim Lamido
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.2
+    longitude: 10.8833
+    wikiDataId: Q6370612
+  - id: 736
+    name: Kurmi
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.708857
+    longitude: 10.080541
+    wikiDataId: Q6446184
+  - id: 737
+    name: Lau
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.18694444
+    longitude: 11.42
+    wikiDataId: Q6497586
+  - id: 738
+    name: Sardauna
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.95
+    longitude: 11.116667
+    wikiDataId: Q7423783
+  - id: 739
+    name: Takum
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.25
+    longitude: 9.98333333
+    wikiDataId: Q7678554
+  - id: 740
+    name: Ussa
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.11666667
+    longitude: 10.08333333
+    wikiDataId: Q3331575
+  - id: 741
+    name: Wukari
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.85
+    longitude: 9.78333333
+    wikiDataId: Q3509190
+  - id: 742
+    name: Yorro
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.749986
+    longitude: 11.616698
+    wikiDataId: Q8055852
+  - id: 743
+    name: Zing
+    state_id: 319
+    state_code: TA
+    state_name: Taraba
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.993239
+    longitude: 11.740887
+    wikiDataId: Q8072371

@@ -1,0 +1,331 @@
+osun:
+  - id: 602
+    name: Ayedaade
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.31666667
+    longitude: 4.35
+    wikiDataId: Q4699405
+  - id: 603
+    name: Aiyedire
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.56666667
+    longitude: 4.23333333
+    wikiDataId: Q4699407
+  - id: 604
+    name: Atakunmosa East
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.48333
+    longitude: 4.78333
+    wikiDataId: Q4812674
+  - id: 605
+    name: Atakunmosa West
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.55
+    longitude: 4.66667
+    wikiDataId: Q4812675
+  - id: 606
+    name: Boluwaduro
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.9
+    longitude: 4.81666667
+    wikiDataId: Q4940287
+  - id: 607
+    name: Boripe
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.86666667
+    longitude: 4.65833333
+    wikiDataId: Q4945164
+  - id: 608
+    name: Ede North
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.73333333
+    longitude: 4.48333333
+    wikiDataId: Q5336721
+  - id: 609
+    name: Ede South
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.7
+    longitude: 4.45
+    wikiDataId: Q5336722
+  - id: 610
+    name: Egbedore
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.81666667
+    longitude: 4.43333333
+    wikiDataId: Q3511620
+  - id: 611
+    name: Ejigbo
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.9
+    longitude: 4.315
+    wikiDataId: Q5350128
+  - id: 612
+    name: Ife Central
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.55
+    longitude: 4.53333333
+    wikiDataId: Q3509568
+  - id: 613
+    name: Ife East
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.45
+    longitude: 4.6
+    wikiDataId: Q5991130
+  - id: 614
+    name: Ife North
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.36666667
+    longitude: 4.46666667
+    wikiDataId: Q11008758
+  - id: 615
+    name: Ife South
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.2
+    longitude: 4.6
+    wikiDataId: Q5991132
+  - id: 616
+    name: Ifedayo
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.95
+    longitude: 4.98333333
+    wikiDataId: Q5991148
+  - id: 617
+    name: Ifelodun
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.91667
+    longitude: 4.66667
+    wikiDataId: Q3509603
+  - id: 618
+    name: Ila
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.01666667
+    longitude: 4.9
+    wikiDataId: Q3305665
+  - id: 619
+    name: Ilesa East
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.61666667
+    longitude: 4.76666667
+    wikiDataId: Q3509533
+  - id: 620
+    name: Ilesa West
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.65
+    longitude: 4.71666667
+    wikiDataId: Q3509434
+  - id: 621
+    name: Irepodun
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.83333
+    longitude: 4.48333
+    wikiDataId: Q3509552
+  - id: 622
+    name: Irewole
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.41666667
+    longitude: 4.21666667
+    wikiDataId: Q3509478
+  - id: 623
+    name: Isokan
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.3
+    longitude: 4.18333333
+    wikiDataId: Q3510368
+  - id: 624
+    name: Iwo
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.63333333
+    longitude: 4.18333333
+    wikiDataId: Q1665608
+  - id: 625
+    name: Obokun
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.78333333
+    longitude: 4.76666667
+    wikiDataId: Q7075260
+  - id: 626
+    name: Odo-Otin
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.01666667
+    longitude: 4.7
+    wikiDataId: Q3509495
+  - id: 627
+    name: Ola-Oluwa
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.78333333
+    longitude: 4.21666667
+    wikiDataId: Q3510394
+  - id: 628
+    name: Olorunda
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.86666667
+    longitude: 4.58333333
+    wikiDataId: Q3509362
+  - id: 629
+    name: Oriade
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.58333333
+    longitude: 4.86666667
+    wikiDataId: Q3510511
+  - id: 630
+    name: Orolu
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.9
+    longitude: 4.45
+    wikiDataId: Q3509498
+  - id: 631
+    name: Osogbo
+    state_id: 322
+    state_code: OS
+    state_name: Osun
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.76666667
+    longitude: 4.56666667
+    wikiDataId: Q868203

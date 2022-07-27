@@ -1,0 +1,276 @@
+delta:
+  - id: 187
+    name: Aniocha North
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.319994
+    longitude: 6.476847
+    wikiDataId: Q4765241
+  - id: 188
+    name: Aniocha South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.183072
+    longitude: 6.524367
+    wikiDataId: Q4765242
+  - id: 189
+    name: Bomadi
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.161805
+    longitude: 5.924511
+    wikiDataId: Q4940347
+  - id: 190
+    name: Burutu
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.35
+    longitude: 5.516667
+    wikiDataId: Q3510499
+  - id: 191
+    name: Ethiope East
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.63314
+    longitude: 6.028192
+    wikiDataId: Q5403503
+  - id: 192
+    name: Ethiope West
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.63314
+    longitude: 6.028192
+    wikiDataId: Q5403511
+  - id: 193
+    name: Ika North East
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.186379
+    longitude: 6.200409
+    wikiDataId: Q5995280
+  - id: 194
+    name: Ika South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.252758
+    longitude: 6.199664
+    wikiDataId: Q17139912
+  - id: 195
+    name: Isoko North
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.538333
+    longitude: 6.216111
+    wikiDataId: Q6085814
+  - id: 196
+    name: Isoko South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.538333
+    longitude: 6.216111
+    wikiDataId: Q6085820
+  - id: 197
+    name: Ndokwa East
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.669319
+    longitude: 6.523171
+    wikiDataId: Q6983780
+  - id: 198
+    name: Ndokwa West
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.815022
+    longitude: 6.350772
+    wikiDataId: Q17109187
+  - id: 199
+    name: Okpe
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.43333333
+    longitude: 5.95
+    wikiDataId: Q7082548
+  - id: 200
+    name: Oshimili North
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.382652
+    longitude: 6.624309
+    wikiDataId: Q7106622
+  - id: 201
+    name: Oshimili South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.118256
+    longitude: 6.66583
+    wikiDataId: Q7106620
+  - id: 202
+    name: Patani
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.2412505830419045
+    longitude: 6.190626760617503
+    wikiDataId: Q2478838
+  - id: 203
+    name: Sapele
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.9
+    longitude: 5.66666667
+    wikiDataId: Q3495356
+  - id: 204
+    name: Udu
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.75
+    longitude: 5.716667
+    wikiDataId: Q7877316
+  - id: 205
+    name: Ughelli North
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.75
+    longitude: 8.71666667
+    wikiDataId: Q15043628
+  - id: 206
+    name: Ughelli South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 9.75
+    longitude: 8.71666667
+    wikiDataId: Q7877752
+  - id: 207
+    name: Ukwuani
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.850198
+    longitude: 6.246481
+    wikiDataId: Q7878637
+  - id: 208
+    name: Uvwie
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.87
+    longitude: 6.001
+    wikiDataId: Q7903753
+  - id: 209
+    name: Warri North
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.000089
+    longitude: 5.466481
+    wikiDataId: Q7970686
+  - id: 210
+    name: Warri South
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.519063
+    longitude: 5.800606
+    wikiDataId: Q7970687
+  - id: 211
+    name: Warri South West
+    state_id: 316
+    state_code: DE
+    state_name: Delta
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.599713
+    longitude: 5.454881
+    wikiDataId: Q7970689

@@ -1,0 +1,342 @@
+akwa-ibom:
+  - id: 39
+    name: Abak
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.98333333
+    longitude: 7.78333333
+    wikiDataId: Q2820150
+  - id: 40
+    name: Eastern Obolo
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.533333
+    longitude: 7.7
+    wikiDataId: Q5330341
+  - id: 41
+    name: Eket
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.65
+    longitude: 7.93333333
+    wikiDataId: Q3321199
+  - id: 42
+    name: Esit Eket
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.66055556
+    longitude: 8.06666667
+    wikiDataId: Q5397964
+  - id: 43
+    name: Essien Udim
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.13333333
+    longitude: 7.68333333
+    wikiDataId: Q5399896
+  - id: 44
+    name: Etim Ekpo
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.01666667
+    longitude: 7.61666667
+    wikiDataId: Q5404590
+  - id: 45
+    name: Etinan
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.85
+    longitude: 7.83333333
+    wikiDataId: Q5404600
+  - id: 46
+    name: Ibeno
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.568693
+    longitude: 7.976396
+    wikiDataId: Q5983812
+  - id: 47
+    name: Ibesikpo Asutan
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.76666667
+    longitude: 7.95
+    wikiDataId: Q5983991
+  - id: 48
+    name: Ibiono Ibom
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.23333333
+    longitude: 7.88333333
+    wikiDataId: Q5984067
+  - id: 49
+    name: Ika
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.01666667
+    longitude: 7.53333333
+    wikiDataId: Q5995269
+  - id: 50
+    name: Ikono
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.210278
+    longitude: 7.793889
+    wikiDataId: Q5996152
+  - id: 51
+    name: Ikot Abasi
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.633333
+    longitude: 7.65
+    wikiDataId: Q5996219
+  - id: 52
+    name: Ikot Ekpene
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.18333333
+    longitude: 7.71666667
+    wikiDataId: Q680926
+  - id: 53
+    name: Ini
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.4
+    longitude: 7.733333
+    wikiDataId: Q13140466
+  - id: 54
+    name: Itu
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.16666667
+    longitude: 7.98333333
+    wikiDataId: Q6095095
+  - id: 55
+    name: Mbo
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.65
+    longitude: 8.23333333
+    wikiDataId: Q6799703
+  - id: 56
+    name: Mkpat Enin
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.73361111
+    longitude: 7.74861111
+    wikiDataId: Q6885516
+  - id: 57
+    name: Nsit Atai
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.85
+    longitude: 8.01666667
+    wikiDataId: Q7067566
+  - id: 58
+    name: Nsit Ibom
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.88333333
+    longitude: 7.9
+    wikiDataId: Q7067567
+  - id: 59
+    name: Nsit Ubium
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.76666667
+    longitude: 7.93333333
+    wikiDataId: Q10494314
+  - id: 60
+    name: Obot Akara
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.26667
+    longitude: 7.6
+    wikiDataId: Q7075311
+  - id: 61
+    name: Okobo
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.83333333
+    longitude: 8.13333333
+    wikiDataId: Q7082466
+  - id: 62
+    name: Onna
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.65
+    longitude: 7.86666667
+    wikiDataId: Q7094369
+  - id: 63
+    name: Oron
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.82583333
+    longitude: 8.23388889
+    wikiDataId: Q1277335
+  - id: 64
+    name: Oruk Anam
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.81666667
+    longitude: 7.65
+    wikiDataId: Q7105162
+  - id: 65
+    name: Udung Uko
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.76666667
+    longitude: 8.23333333
+    wikiDataId: Q7877346
+  - id: 66
+    name: Ukanafun
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.9
+    longitude: 7.6
+    wikiDataId: Q7878266
+  - id: 67
+    name: Uruan
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.03333333
+    longitude: 8.05
+    wikiDataId: Q11058133
+  - id: 68
+    name: Urue Offong/Oruko
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.71667
+    longitude: 8.15
+    wikiDataId: Q7901410
+  - id: 69
+    name: Uyo
+    state_id: 304
+    state_code: AK
+    state_name: Akwa Ibom
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.03333333
+    longitude: 7.91666667
+    wikiDataId: Q1999000

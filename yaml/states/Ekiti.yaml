@@ -1,0 +1,177 @@
+ekiti:
+  - id: 243
+    name: Ado-Ekiti
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.621111
+    longitude: 5.221389
+    wikiDataId: Q359955
+  - id: 244
+    name: Efon
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.36666667
+    longitude: 3.63333333
+    wikiDataId: Q5347554
+  - id: 245
+    name: Ekiti East
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.749096
+    longitude: 5.719633
+    wikiDataId: Q3511633
+  - id: 246
+    name: Ekiti South West
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.617082
+    longitude: 5.24349
+    wikiDataId: Q3511702
+  - id: 247
+    name: Ekiti West
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.657723
+    longitude: 5.223741
+    wikiDataId: Q3331544
+  - id: 248
+    name: Emure
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.45
+    longitude: 5.46667
+    wikiDataId: Q5374891
+  - id: 249
+    name: Gbonyin
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.621623
+    longitude: 5.239016
+    wikiDataId: Q5529352
+  - id: 250
+    name: Ido-Osi
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.856505
+    longitude: 5.175537
+    wikiDataId: Q5989257
+  - id: 251
+    name: Ijero
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.81667
+    longitude: 5.08333
+    wikiDataId: Q5995177
+  - id: 252
+    name: Ikere
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.5
+    longitude: 5.23333
+    wikiDataId: Q946097
+  - id: 253
+    name: Ikole
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.78333333
+    longitude: 5.51666667
+    wikiDataId: Q5996084
+  - id: 254
+    name: Ilejemeje
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.953263
+    longitude: 5.230908
+    wikiDataId: Q5997498
+  - id: 255
+    name: Irepodun/Ifelodun
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.621111
+    longitude: 5.221389
+    wikiDataId: Q6069392
+  - id: 256
+    name: Ise/Orun
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.46
+    longitude: 5.42
+    wikiDataId: Q6079560
+  - id: 257
+    name: Moba
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.987774
+    longitude: 5.124049
+    wikiDataId: Q6886588
+  - id: 258
+    name: Oye
+    state_id: 309
+    state_code: EK
+    state_name: Ekiti
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.79944444
+    longitude: 5.32833333
+    wikiDataId: Q7116252

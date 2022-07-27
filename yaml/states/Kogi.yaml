@@ -1,0 +1,232 @@
+kogi:
+  - id: 469
+    name: Adavi
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.66666667
+    longitude: 6.45
+    wikiDataId: Q4680897
+  - id: 470
+    name: Ajaokuta
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.55611111
+    longitude: 6.655
+    wikiDataId: Q3509230
+  - id: 471
+    name: Ankpa
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.43333333
+    longitude: 7.63333333
+    wikiDataId: Q4766098
+  - id: 472
+    name: Bassa
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.9
+    longitude: 7.05
+    wikiDataId: Q4867995
+  - id: 473
+    name: Dekina
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.58333333
+    longitude: 7.2
+    wikiDataId: Q5252818
+  - id: 474
+    name: Ibaji
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.86666667
+    longitude: 6.8
+    wikiDataId: Q5983615
+  - id: 475
+    name: Idah
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.08333333
+    longitude: 6.75
+    wikiDataId: Q3048500
+  - id: 476
+    name: Igalamela Odolu
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.08333333
+    longitude: 7.08333333
+    wikiDataId: Q5991434
+  - id: 477
+    name: Ijumu
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.85
+    longitude: 5.96666667
+    wikiDataId: Q5995233
+  - id: 478
+    name: Kabba/Bunu
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.11666667
+    longitude: 6.15
+    wikiDataId: Q6343980
+  - id: 479
+    name: Kogi
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.5
+    longitude: 6.7
+    wikiDataId: Q387745
+  - id: 480
+    name: Lokoja
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.80194444
+    longitude: 6.74416667
+    wikiDataId: Q994085
+  - id: 481
+    name: Mopa-Muro
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.09722222
+    longitude: 5.89583333
+    wikiDataId: Q6908772
+  - id: 482
+    name: Ofu
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.33333333
+    longitude: 7.08333333
+    wikiDataId: Q10676724
+  - id: 483
+    name: Ogori/Magongo
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.483333
+    longitude: 6.216667
+    wikiDataId: Q7080208
+  - id: 484
+    name: Okehi
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.7
+    longitude: 6.3
+    wikiDataId: Q7081917
+  - id: 485
+    name: Okene
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.55
+    longitude: 6.23333333
+    wikiDataId: Q2017187
+  - id: 486
+    name: Olamaboro
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.18333
+    longitude: 7.56667
+    wikiDataId: Q7083067
+  - id: 487
+    name: Omala
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.81666667
+    longitude: 7.51666667
+    wikiDataId: Q7089500
+  - id: 488
+    name: Yagba East
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.16666667
+    longitude: 5.7
+    wikiDataId: Q8046693
+  - id: 489
+    name: Yagba West
+    state_id: 298
+    state_code: KO
+    state_name: Kogi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 8.25
+    longitude: 5.55
+    wikiDataId: Q8046694

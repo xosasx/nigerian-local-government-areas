@@ -1,0 +1,298 @@
+jigawa:
+  - id: 320
+    name: Auyo
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.36
+    longitude: 9.98555556
+    wikiDataId: Q4827336
+  - id: 321
+    name: Babura
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.63333333
+    longitude: 8.96666667
+    wikiDataId: Q4838099
+  - id: 322
+    name: Biriniwa
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.7833
+    longitude: 10.2333
+    wikiDataId: Q13140398
+  - id: 323
+    name: Birnin Kudu
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.45
+    longitude: 9.475
+    wikiDataId: Q4916902
+  - id: 324
+    name: Buji
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.66371
+    longitude: 9.730518
+    wikiDataId: Q4986741
+  - id: 325
+    name: Dutse
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.70111111
+    longitude: 9.34194444
+    wikiDataId: Q1023713
+  - id: 326
+    name: Gagarawa
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.407564
+    longitude: 9.528397
+    wikiDataId: Q5516809
+  - id: 327
+    name: Garki
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.432259
+    longitude: 9.181244
+    wikiDataId: Q5523392
+  - id: 328
+    name: Gumel
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.62833333
+    longitude: 9.38972222
+    wikiDataId: Q1023716
+  - id: 329
+    name: Guri
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.633757685656763
+    longitude: 10.481106764515644
+    wikiDataId: Q42071
+  - id: 330
+    name: Gwaram
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.185833
+    longitude: 9.968611
+    wikiDataId: Q5623339
+  - id: 331
+    name: Gwiwa
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.736914
+    longitude: 8.271095
+    wikiDataId: Q5623681
+  - id: 332
+    name: Hadejia
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.45
+    longitude: 10.04
+    wikiDataId: Q5637733
+  - id: 333
+    name: Jahun
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.06666667
+    longitude: 9.63333333
+    wikiDataId: Q6123326
+  - id: 334
+    name: Kafin Hausa
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.981763
+    longitude: 8.496467
+    wikiDataId: Q218744
+  - id: 335
+    name: Kaugama
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.4833
+    longitude: 9.73333
+    wikiDataId: Q6378697
+  - id: 336
+    name: Kazaure
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.6528
+    longitude: 8.41194
+    wikiDataId: Q6380928
+  - id: 337
+    name: Kiri Kasama
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.594408
+    longitude: 10.214753
+    wikiDataId: Q6415076
+  - id: 338
+    name: Kiyawa
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.78472222
+    longitude: 9.60833333
+    wikiDataId: Q6418966
+  - id: 339
+    name: Maigatari
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.804038
+    longitude: 9.448007
+    wikiDataId: Q7682218
+  - id: 340
+    name: Malam Madori
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.554071
+    longitude: 10.028136
+    wikiDataId: Q6741213
+  - id: 341
+    name: Miga
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.23333333
+    longitude: 9.71666667
+    wikiDataId: Q3857126
+  - id: 342
+    name: Ringim
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.28333333
+    longitude: 9.46666667
+    wikiDataId: Q7334893
+  - id: 343
+    name: Roni
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.566481
+    longitude: 8.347088
+    wikiDataId: Q7365684
+  - id: 344
+    name: Sule Tankarkar
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.65577
+    longitude: 9.18751
+    wikiDataId: Q7636102
+  - id: 345
+    name: Taura
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.2724893
+    longitude: 9.36241882485775
+    wikiDataId: Q71057
+  - id: 346
+    name: Yankwashi
+    state_id: 288
+    state_code: JI
+    state_name: Jigawa
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.743623
+    longitude: 8.53892
+    wikiDataId: Q8048834

@@ -1,0 +1,188 @@
+abia:
+  - id: 1
+    name: Aba North
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.33333333
+    longitude: 7.31666667
+    wikiDataId: Q4663114
+  - id: 2
+    name: Aba South
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.1
+    longitude: 7.35
+    wikiDataId: Q4663117
+  - id: 3
+    name: Arochukwu
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.38333333
+    longitude: 7.91666667
+    wikiDataId: Q965036
+  - id: 4
+    name: Bende
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.56666667
+    longitude: 7.63333333
+    wikiDataId: Q4887027
+  - id: 5
+    name: Ikwuano
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.43333333
+    longitude: 7.56666667
+    wikiDataId: Q5996447
+  - id: 6
+    name: Isiala Ngwa North
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.388966
+    longitude: 7.446948
+    wikiDataId: Q13140544
+  - id: 7
+    name: Isiala Ngwa South
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.36241
+    longitude: 7.39998
+    wikiDataId: Q6080818
+  - id: 8
+    name: Isuikwuato
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.533333
+    longitude: 7.483333
+    wikiDataId: Q6089443
+  - id: 9
+    name: Obi Ngwa
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.155402
+    longitude: 7.457067
+    wikiDataId: Q7074920
+  - id: 10
+    name: Ohafia
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.61666667
+    longitude: 7.83333333
+    wikiDataId: Q7080605
+  - id: 11
+    name: Osisioma
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.14972222
+    longitude: 7.33027778
+    wikiDataId: Q7106876
+  - id: 12
+    name: Ugwunagbo
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.984474
+    longitude: 7.325783
+    wikiDataId: Q7877949
+  - id: 13
+    name: Ukwa East
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.8872
+    longitude: 7.3572
+    wikiDataId: Q7878633
+  - id: 14
+    name: Ukwa West
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.9884
+    longitude: 7.2425
+    wikiDataId: Q11058273
+  - id: 15
+    name: Umu-Nneochi
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.985662
+    longitude: 7.469005
+    wikiDataId: Q7881822
+  - id: 16
+    name: Umuahia North
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.5333
+    longitude: 7.4833
+    wikiDataId: Q7881829
+  - id: 17
+    name: Umuahia South
+    state_id: 303
+    state_code: AB
+    state_name: Abia
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.515311
+    longitude: 7.447314
+    wikiDataId: Q7881831

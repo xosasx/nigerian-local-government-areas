@@ -1,0 +1,188 @@
+yobe:
+  - id: 744
+    name: Bade
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.86666667
+    longitude: 10.96666667
+    wikiDataId: Q4840705
+  - id: 745
+    name: Bursari
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.75
+    longitude: 11.76666667
+    wikiDataId: Q13140409
+  - id: 746
+    name: Damaturu
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.74444444
+    longitude: 11.96111111
+    wikiDataId: Q1023722
+  - id: 747
+    name: Fika
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.41666667
+    longitude: 11.21666667
+    wikiDataId: Q5448220
+  - id: 748
+    name: Fune
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.88333333
+    longitude: 11.9
+    wikiDataId: Q5509089
+  - id: 749
+    name: Geidam
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.71666667
+    longitude: 12.03333333
+    wikiDataId: Q5530097
+  - id: 750
+    name: Gujba
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.49777778
+    longitude: 11.93083333
+    wikiDataId: Q5617047
+  - id: 751
+    name: Gulani
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11
+    longitude: 11.71666667
+    wikiDataId: Q13140437
+  - id: 752
+    name: Jakusko
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.41666667
+    longitude: 10.93333333
+    wikiDataId: Q13140476
+  - id: 753
+    name: Karasuwa
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 13
+    longitude: 10.78333333
+    wikiDataId: Q15043631
+  - id: 754
+    name: Machina
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 13.1
+    longitude: 10
+    wikiDataId: Q6723600
+  - id: 755
+    name: Nangere
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.85
+    longitude: 10.96666667
+    wikiDataId: Q6963508
+  - id: 756
+    name: Nguru
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.875
+    longitude: 10.458333
+    wikiDataId: Q3508977
+  - id: 757
+    name: Potiskum
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.7092
+    longitude: 11.0694
+    wikiDataId: Q3309364
+  - id: 758
+    name: Tarmuwa
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.2
+    longitude: 11.78333333
+    wikiDataId: Q7686367
+  - id: 759
+    name: Yunusari
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 13.11666667
+    longitude: 11.73333333
+    wikiDataId: Q8061404
+  - id: 760
+    name: Yusufari
+    state_id: 297
+    state_code: YO
+    state_name: Yobe
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 13.18333333
+    longitude: 10.85
+    wikiDataId: Q8062007

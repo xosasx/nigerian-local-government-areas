@@ -1,0 +1,232 @@
+kebbi:
+  - id: 448
+    name: Aliero
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.29654
+    longitude: 4.42793
+    wikiDataId: Q4714427
+  - id: 449
+    name: Arewa Dandi
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.688388
+    longitude: 4.074184
+    wikiDataId: Q4789123
+  - id: 450
+    name: Argungu
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.73333333
+    longitude: 4.51666667
+    wikiDataId: Q652068
+  - id: 451
+    name: Augie
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.88333333
+    longitude: 4.6
+    wikiDataId: Q4820393
+  - id: 452
+    name: Bagudo
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.400095
+    longitude: 4.225767
+    wikiDataId: Q800145
+  - id: 453
+    name: Birnin Kebbi
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.45361111
+    longitude: 4.20027778
+    wikiDataId: Q865828
+  - id: 454
+    name: Bunza
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.0916
+    longitude: 4.0108
+    wikiDataId: Q1707615
+  - id: 455
+    name: Dandi
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.68333333
+    longitude: 8.66666667
+    wikiDataId: Q9285759
+  - id: 456
+    name: Danko-Wasagu
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.395688
+    longitude: 5.485568
+    wikiDataId: Q7971327
+  - id: 457
+    name: Fakai
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.547523
+    longitude: 4.96493
+    wikiDataId: Q5431445
+  - id: 458
+    name: Gwandu
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.50222222
+    longitude: 4.6425
+    wikiDataId: Q1337777
+  - id: 459
+    name: Jega
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.3667
+    longitude: 4.6333
+    wikiDataId: Q1707534
+  - id: 460
+    name: Kalgo
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 12.33257
+    longitude: 4.20035
+    wikiDataId: Q13140479
+  - id: 461
+    name: Koko/Besse
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.45855
+    longitude: 4.43782
+    wikiDataId: Q6426701
+  - id: 462
+    name: Maiyama
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.99054
+    longitude: 4.35394
+    wikiDataId: Q6737240
+  - id: 463
+    name: Ngaski
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 10.40709
+    longitude: 4.71781
+    wikiDataId: Q7022112
+  - id: 464
+    name: Sakaba
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.065401
+    longitude: 5.596032
+    wikiDataId: Q7402731
+  - id: 465
+    name: Shanga
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.1958
+    longitude: 4.5675
+    wikiDataId: Q11058523
+  - id: 466
+    name: Suru
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.83
+    longitude: 4.096667
+    wikiDataId: Q7646970
+  - id: 467
+    name: Yauri
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.395688
+    longitude: 5.485568
+    wikiDataId: Q8050359
+  - id: 468
+    name: Zuru
+    state_id: 290
+    state_code: KE
+    state_name: Kebbi
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 11.435
+    longitude: 5.235
+    wikiDataId: Q8075416

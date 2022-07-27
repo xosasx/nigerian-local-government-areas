@@ -1,0 +1,221 @@
+lagos:
+  - id: 506
+    name: Agege
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.62194444
+    longitude: 3.32583333
+    wikiDataId: Q3509545
+  - id: 507
+    name: Ajeromi-Ifelodun
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.4448
+    longitude: 3.3339
+    wikiDataId: Q3509013
+  - id: 508
+    name: Alimosho
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.61055556
+    longitude: 3.29583333
+    wikiDataId: Q3509580
+  - id: 509
+    name: Amuwo-Odofin
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.45
+    longitude: 3.266667
+    wikiDataId: Q3509621
+  - id: 510
+    name: Apapa
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.45
+    longitude: 3.36666667
+    wikiDataId: Q617618
+  - id: 511
+    name: Badagry
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.41666667
+    longitude: 2.88333333
+    wikiDataId: Q798812
+  - id: 512
+    name: Epe
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.58333333
+    longitude: 3.98333333
+    wikiDataId: Q1023707
+  - id: 513
+    name: Eti-Osa
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.437443
+    longitude: 3.564588
+    wikiDataId: Q5404527
+  - id: 514
+    name: Ibeju-Lekki
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.416667
+    longitude: 2.883333
+    wikiDataId: Q5983804
+  - id: 515
+    name: Ifako-Ijaiye
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.68472222
+    longitude: 3.28888889
+    wikiDataId: Q5991116
+  - id: 516
+    name: Ikeja
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.6
+    longitude: 3.35
+    wikiDataId: Q1024647
+  - id: 517
+    name: Ikorodu
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.6
+    longitude: 3.5
+    wikiDataId: Q1658159
+  - id: 518
+    name: Kosofe
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.556879
+    longitude: 3.384174
+    wikiDataId: Q6433326
+  - id: 519
+    name: Lagos Island
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.45
+    longitude: 3.4
+    wikiDataId: Q605583
+  - id: 520
+    name: Lagos Mainland
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.504937
+    longitude: 3.386503
+    wikiDataId: Q6472602
+  - id: 521
+    name: Mushin
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.53333333
+    longitude: 3.35
+    wikiDataId: Q3139881
+  - id: 522
+    name: Ojo
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.46666667
+    longitude: 3.18333333
+    wikiDataId: Q623249
+  - id: 523
+    name: Oshodi-Isolo
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.511865
+    longitude: 3.308021
+    wikiDataId: Q7106648
+  - id: 524
+    name: Somolu
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.540833
+    longitude: 3.387222
+    wikiDataId: Q280585
+  - id: 525
+    name: Surulere
+    state_id: 306
+    state_code: LA
+    state_name: Lagos
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.5
+    longitude: 3.35
+    wikiDataId: Q994119

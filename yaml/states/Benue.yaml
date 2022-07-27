@@ -1,0 +1,254 @@
+benue:
+  - id: 119
+    name: Ado
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.8
+    longitude: 7.65
+    wikiDataId: Q4683957
+  - id: 120
+    name: Agatu
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.9
+    longitude: 7.9
+    wikiDataId: Q3399397
+  - id: 121
+    name: Apa
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.829754
+    longitude: 8.069994
+    wikiDataId: Q4778862
+  - id: 122
+    name: Buruku
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.416792
+    longitude: 9.224674
+    wikiDataId: Q5000980
+  - id: 123
+    name: Gboko
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.327778
+    longitude: 8.995
+    wikiDataId: Q2425179
+  - id: 124
+    name: Guma
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.823295
+    longitude: 8.863239
+    wikiDataId: Q13140438
+  - id: 125
+    name: Gwer East
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.298066
+    longitude: 8.482303
+    wikiDataId: Q5623550
+  - id: 126
+    name: Gwer West
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.584645
+    longitude: 8.205478
+    wikiDataId: Q5623546
+  - id: 127
+    name: Katsina Ala
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.16666667
+    longitude: 9.28333333
+    wikiDataId: Q6378033
+  - id: 128
+    name: Konshisha
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.071123
+    longitude: 8.663878
+    wikiDataId: Q6429829
+  - id: 129
+    name: Kwande
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.890043
+    longitude: 9.233408
+    wikiDataId: Q6450151
+  - id: 130
+    name: Logo
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.507748
+    longitude: 9.350653
+    wikiDataId: Q6667711
+  - id: 131
+    name: Makurdi
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.730556
+    longitude: 8.536111
+    wikiDataId: Q994096
+  - id: 132
+    name: Obi
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7
+    longitude: 8.25
+    wikiDataId: Q4207508
+  - id: 133
+    name: Ogbadibo
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.13907
+    longitude: 7.668285
+    wikiDataId: Q7079868
+  - id: 134
+    name: Ohimini
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.23015
+    longitude: 7.927993
+    wikiDataId: Q7080670
+  - id: 135
+    name: Oju
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.85
+    longitude: 8.41666667
+    wikiDataId: Q7081668
+  - id: 136
+    name: Okpokwu
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.06277778
+    longitude: 8.21
+    wikiDataId: Q7082560
+  - id: 137
+    name: Otukpo
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.19305556
+    longitude: 8.14638889
+    wikiDataId: Q3511323
+  - id: 138
+    name: Tarka
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.620833
+    longitude: 8.881944
+    wikiDataId: Q7686233
+  - id: 139
+    name: Ukum
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.530801
+    longitude: 9.649268
+    wikiDataId: Q7878615
+  - id: 140
+    name: Ushongo
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 7.135788
+    longitude: 9.032921
+    wikiDataId: Q7901973
+  - id: 141
+    name: Vandeikya
+    state_id: 291
+    state_code: BE
+    state_name: Benue
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 6.782346
+    longitude: 9.069257
+    wikiDataId: Q7914377

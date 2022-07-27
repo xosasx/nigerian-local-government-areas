@@ -1,0 +1,254 @@
+rivers:
+  - id: 682
+    name: Abua-Odual
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.82972222
+    longitude: 6.5675
+    wikiDataId: Q4670480
+  - id: 683
+    name: Ahoada East
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.06833333
+    longitude: 6.64666667
+    wikiDataId: Q4696271
+  - id: 684
+    name: Ahoada West
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.08638889
+    longitude: 6.47527778
+    wikiDataId: Q4696272
+  - id: 685
+    name: Akuku-Toru
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.56
+    longitude: 6.74972222
+    wikiDataId: Q4701936
+  - id: 686
+    name: Andoni
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.54916667
+    longitude: 7.44638889
+    wikiDataId: Q4754534
+  - id: 687
+    name: Asari-Toru
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.78333333
+    longitude: 6.85
+    wikiDataId: Q4803607
+  - id: 688
+    name: Bonny
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.43333333
+    longitude: 7.16666667
+    wikiDataId: Q604978
+  - id: 689
+    name: Degema
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.57416667
+    longitude: 6.93805556
+    wikiDataId: Q5251767
+  - id: 690
+    name: Eleme
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.7875
+    longitude: 7.14361111
+    wikiDataId: Q5358807
+  - id: 691
+    name: Emohua
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.88333333
+    longitude: 6.86666667
+    wikiDataId: Q5373664
+  - id: 692
+    name: Etche
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.99
+    longitude: 7.05
+    wikiDataId: Q5402485
+  - id: 693
+    name: Gokana
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.65972222
+    longitude: 7.2825
+    wikiDataId: Q5578033
+  - id: 694
+    name: Ikwerre
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.055143
+    longitude: 6.922417
+    wikiDataId: Q5996439
+  - id: 695
+    name: Khana
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.7
+    longitude: 7.35
+    wikiDataId: Q11008655
+  - id: 696
+    name: Obio/Akpor
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.874902
+    longitude: 6.999767
+    wikiDataId: Q7074973
+  - id: 697
+    name: Ogba/Egbema/Ndoni
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 5.34166944
+    longitude: 6.65556111
+    wikiDataId: Q7079867
+  - id: 698
+    name: Ogu/Bolo
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.65055556
+    longitude: 7.18305556
+    wikiDataId: Q7080271
+  - id: 699
+    name: Okrika
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.74
+    longitude: 7.083
+    wikiDataId: Q7082573
+  - id: 700
+    name: Omuma
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.969419
+    longitude: 7.020821
+    wikiDataId: Q7090801
+  - id: 701
+    name: Opobo/Nkoro
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.56805556
+    longitude: 7.55277778
+    wikiDataId: Q7098375
+  - id: 702
+    name: Oyigbo
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.87806111
+    longitude: 7.12833056
+    wikiDataId: Q7116269
+  - id: 703
+    name: Port Harcourt
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.82416667
+    longitude: 7.03361111
+    wikiDataId: Q217432
+  - id: 704
+    name: Tai
+    state_id: 4926
+    state_code: RI
+    state_name: Rivers
+    country_id: 161
+    country_code: NG
+    country_name: Nigeria
+    latitude: 4.71666667
+    longitude: 7.3
+    wikiDataId: Q7675709
