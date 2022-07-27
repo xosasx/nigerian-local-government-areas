@@ -96,7 +96,7 @@ A collection of all 774 local government areas in Nigeria.
 -   [x] Add ReadMe
 -   [ ] Add SQL format
 -   [x] Add XML format
--   [ ] Add YAML format
+-   [x] Add YAML format
 -   [x] Add CSV format
 -   [ ] Implement API for data
 
